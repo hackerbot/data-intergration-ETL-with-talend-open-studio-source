@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Services:ServiceConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:Services="http://www.talend.org/Services" xmi:id="_-k28QhdwEeGSEs5T83R7_A" WSDLPath="/Users/zubairov/Repositories/tesb-rt-se/examples/rent-a-car/reservationservice/common/src/main/resources/model/reservation-wsdls/ReservationService.wsdl">
+  <servicePort href="ReservationService_0.1.item#_ApH54BdMEeGp55e7Um-D_w"/>
+  <additionalInfo xmi:id="_-k28QxdwEeGSEs5T83R7_A" key="UseSAM" value="false"/>
+  <additionalInfo xmi:id="_-k28RBdwEeGSEs5T83R7_A" key="UseSL" value="false"/>
+  <additionalInfo xmi:id="_-k28RRdwEeGSEs5T83R7_A" key="Security.Basic" value="false"/>
+  <additionalInfo xmi:id="_-k28RhdwEeGSEs5T83R7_A" key="Security.SAML" value="false"/>
+</Services:ServiceConnection>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_uFwbkMaNEeSC_tOSWUIyNw" id="_uFvNcMaNEeSC_tOSWUIyNw" label="Lesson_03_Importing_Table_Schema" creationDate="2015-03-09T12:54:31.368-0700" modificationDate="2015-08-03T00:57:04.987-0700" version="0.1" statusCode="" item="_uFwbksaNEeSC_tOSWUIyNw" displayName="Lesson_03_Importing_Table_Schema">
+    <author href="../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jW3UsDm0EeWcAqeV4m_sPQ" path="ch6_databases"/>
+  <TalendProperties:ProcessItem xmi:id="_uFwbksaNEeSC_tOSWUIyNw" property="_uFwbkMaNEeSC_tOSWUIyNw" state="_jW3UsDm0EeWcAqeV4m_sPQ">
+    <process href="Lesson_03_Importing_Table_Schema_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

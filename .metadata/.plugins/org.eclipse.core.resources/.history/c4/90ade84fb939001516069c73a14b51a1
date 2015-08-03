@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VcvsA0NLEd-UK4CtF6UouA" id="_8qwkYFjNEdyj6eiqDt60Og" label="DemoRoutines" creationDate="2008-02-13T05:12:54.701-0800" modificationDate="2008-02-04T07:56:13.696-0800" version="0.1" statusCode="" item="_VcvsBUNLEd-UK4CtF6UouA" displayName="DemoRoutines">
+    <author href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jNRT0Dm0EeWcAqeV4m_sPQ" path="" locked="true" lockDate="2015-08-03T01:26:06.072-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:RoutineItem xmi:id="_VcvsBUNLEd-UK4CtF6UouA" property="_VcvsA0NLEd-UK4CtF6UouA" state="_jNRT0Dm0EeWcAqeV4m_sPQ">
+    <content href="DemoRoutines_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_w8JbgMsPEeSyr_HlBGW7gQ" id="_w8I0cMsPEeSyr_HlBGW7gQ" label="Lesson_04_Saving_Console_to_a_File" creationDate="2015-03-15T06:35:29.720-0700" modificationDate="2015-08-03T00:29:56.083-0700" version="0.1" statusCode="" item="_w8JbgssPEeSyr_HlBGW7gQ" displayName="Lesson_04_Saving_Console_to_a_File">
+    <author href="../talend.project#_RzPfMjmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5eSboDmwEeWk_-udgJCORA" path="" locked="true" lockDate="2015-08-03T00:28:59.046-0700">
+    <locker href="../talend.project#_RzPfMjmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_w8JbgssPEeSyr_HlBGW7gQ" property="_w8JbgMsPEeSyr_HlBGW7gQ" state="_5eSboDmwEeWk_-udgJCORA">
+    <process href="Lesson_04_Saving_Console_to_a_File_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_4A0X0e9kEeSpE96SEfXQ9Q" id="_4AoKgO9kEeSpE96SEfXQ9Q" label="lesson_01_exchange_rates" creationDate="2015-04-30T12:15:26.249-0700" modificationDate="2015-04-30T12:18:41.903-0700" version="0.1" statusCode="" item="_4A0X0-9kEeSpE96SEfXQ9Q" displayName="lesson_01_exchange_rates">
+    <author href="../../talend.project#_TWBgkTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_1JJVcDmyEeWGfuA7eXozVg" path=""/>
+  <TalendProperties:XmlFileConnectionItem xmi:id="_4A0X0-9kEeSpE96SEfXQ9Q" property="_4A0X0e9kEeSpE96SEfXQ9Q" state="_1JJVcDmyEeWGfuA7eXozVg">
+    <connection href="lesson_01_exchange_rates_0.1.item#_4AwtYO9kEeSpE96SEfXQ9Q"/>
+  </TalendProperties:XmlFileConnectionItem>
+</xmi:XMI>

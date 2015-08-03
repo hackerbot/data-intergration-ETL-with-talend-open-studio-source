@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_nTdn0Ld4EeSCTZOsypeV4Q" id="_nTZ9cLd4EeSCTZOsypeV4Q" label="Lesson_1_Regex" creationDate="2015-02-22T08:55:38.241-0800" modificationDate="2015-08-03T01:34:04.762-0700" version="1.0" statusCode="" item="_nTdn0rd4EeSCTZOsypeV4Q" maxInformationLevel="ERROR" displayName="Lesson_1_Regex">
+    <author href="../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+    <informations xmi:id="_MftIADm6EeWv3qUdjW8qKw" level="ERROR" text="ut_row cannot be resolved to a type"/>
+    <informations xmi:id="_MftIATm6EeWv3qUdjW8qKw" level="ERROR" text="Syntax error, insert &quot;VariableDeclarators&quot; to complete LocalVariableDeclaration"/>
+    <informations xmi:id="_MftIAjm6EeWv3qUdjW8qKw" level="ERROR" text="Type mismatch: cannot convert from Float to String"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jSqKIDm0EeWcAqeV4m_sPQ" path="ch3_conversionExtractionJoin" locked="true" lockDate="2015-08-03T01:32:12.194-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_nTdn0rd4EeSCTZOsypeV4Q" property="_nTdn0Ld4EeSCTZOsypeV4Q" state="_jSqKIDm0EeWcAqeV4m_sPQ">
+    <process href="Lesson_1_Regex_1.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

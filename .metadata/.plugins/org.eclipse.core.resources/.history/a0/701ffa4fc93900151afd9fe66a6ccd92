@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_QP6MwDnGEeWAipCnY9_S6g" id="_QP4-oDnGEeWAipCnY9_S6g" label="JSONExtraction" creationDate="2015-08-03T02:58:56.140-0700" modificationDate="2015-08-03T03:20:31.500-0700" version="0.1" statusCode="" item="_QP6MwjnGEeWAipCnY9_S6g" maxInformationLevel="ERROR" displayName="JSONExtraction">
+    <author href="../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+    <informations xmi:id="_OrOmkDnJEeWAipCnY9_S6g" level="ERROR" text="Type mismatch: cannot convert from File to String"/>
+    <informations xmi:id="_OrOmkTnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete MethodInvocation"/>
+    <informations xmi:id="_OrOmkjnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_OrOmkznJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete ClassInstanceCreationExpression"/>
+    <informations xmi:id="_OrOmlDnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_OrOmlTnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+    <informations xmi:id="_OrOmljnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error on tokens, ( expected instead"/>
+    <informations xmi:id="_OrOmlznJEeWAipCnY9_S6g" level="ERROR" text="String literal is not properly closed by a double-quote"/>
+    <informations xmi:id="_OrOmmDnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_OrOmmTnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;AssignmentOperator Expression&quot; to complete Assignment"/>
+    <informations xmi:id="_OrOmmjnJEeWAipCnY9_S6g" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_QP6MwTnGEeWAipCnY9_S6g" path="" locked="true" lockDate="2015-08-03T02:58:56.316-0700">
+    <locker href="../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_QP6MwjnGEeWAipCnY9_S6g" property="_QP6MwDnGEeWAipCnY9_S6g" state="_QP6MwTnGEeWAipCnY9_S6g">
+    <process href="JSONExtraction_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

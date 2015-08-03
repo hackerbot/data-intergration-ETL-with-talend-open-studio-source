@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Vd8l4ENLEd-UK4CtF6UouA" id="__L6dMIhzEd23i9syGA5qIA" label="step2" creationDate="2008-09-29T08:24:14.450-0700" modificationDate="2015-08-03T00:58:15.796-0700" version="0.1" statusCode="" item="_Vd8l4kNLEd-UK4CtF6UouA" displayName="step2">
+    <author href="../../../../../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_u0QEYDm8EeWv7bXbHMqxWA" path="DataIntegrationDemos/t01_Compo/Orchestration/tWaitForSQL"/>
+  <TalendProperties:ProcessItem xmi:id="_Vd8l4kNLEd-UK4CtF6UouA" property="_Vd8l4ENLEd-UK4CtF6UouA" state="_u0QEYDm8EeWv7bXbHMqxWA">
+    <process href="step2_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

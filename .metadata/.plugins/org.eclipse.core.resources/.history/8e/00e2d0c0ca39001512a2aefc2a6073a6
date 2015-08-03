@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" screenshot="iVBORw0KGgoAAAANSUhEUgAABbsAAAGrCAIAAABmBN1QAAAcc0lEQVR4nO3db3DcdZ3A8ZVsR0Wdc3x+8swH90BHhRv1aedw7tkppw+cOcdRCogS8YpiUVocoadQZbRMrekpDoeWFBppKbQgkbYUkVLAYrCe/PMUGlJaSmhS8rfe77ebbDafJP1Ds/3xze/1ms9kNpvNZ7OdbWZ+7/52W6lUKn9vJfvtt99+++2333777bfffvvtt9/+5Pa39scFAAAASJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAFEl0+o7sN9+++2333777bfffvvtt99+++1Pa79zTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAACiSqbVd2C//fbbb7/99ttvv/3222+//fbbn9Z+55gAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARJVMq+/Afvvtt99+++2333777bfffvvttz+t/c4xAQAAAIgUEwAAAIBIMQEAAACIFBMA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AESKCQAAAEBUybT6Duy333777bfffvvtt99+++23337709rvHBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACAqJJp9R3Yb7/99ttvv/3222+//fbbb7/99qe13zkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAJFiAgAAABApJgAAAACRYgIAAAAQKSYAAAAAkWICAAAAECkmAAAAAFEl0+o7sN9+++2333777bfffvvtt99+++1Pa79zTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAAAixQQAAAAgUkwAAAAAIsUEAAAAIFJMAAAAACLFBAAAACBSTAAAAACiSqbVd2C//fbbb7/99ttvv/3222+//fbbn9Z+55gAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARIoJAAAAQKSYAAAAAESKCQAAAECkmAAAAABEigkAAABApJgAAAAARJVMq+/Afvvtt99+++2333777bfffvvttz+t/c4xAQAAAIgUEwAAAIBIMQEAAACIFBMAAACASDEBAAAAiBQTAAAAgEgxAQAAAIgUEwAAAIBIMQEAAACIFBMAAACA6P8B7dN24WRN2tAAAAAASUVORK5CYII=">
+  <context confirmationNeeded="false" name="Default"/>
+  <parameters>
+    <elementParameter field="DIRECTORY" name="COMP_DEFAULT_FILE_DIR" value="C:/Talend-4.2.3/studio/Talend-All-r67267-V4.2.3/workspace"/>
+    <elementParameter field="DIRECTORY" name="PRODUCT_ROOT_DIR" value="C:/Talend-4.2.3/studio/Talend-All-r67267-V4.2.3"/>
+    <elementParameter field="DIRECTORY" name="COMP_DEFAULT_PROJECT_DIR" value="C:/Talend-4.2.3/studio/Talend-All-r67267-V4.2.3/workspace/BlogPost"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
+    <elementParameter field="TEXT" name="AUTHOR" value="jean.bernard.ratte@hotmail.com"/>
+    <elementParameter field="TEXT" name="STATUS" value=""/>
+    <elementParameter field="TEXT" name="NAME" value="CustomerPULL"/>
+    <elementParameter field="TEXT" name="VERSION" value="0.1"/>
+    <elementParameter field="TEXT" name="PURPOSE" value=""/>
+    <elementParameter field="TEXT" name="DESCRIPTION" value=""/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPTIONS" value="none"/>
+    <elementParameter field="CHECK" name="IMPLICITCONTEXT_USE_PROJECT_SETTINGS" value="true"/>
+    <elementParameter field="CHECK" name="STATANDLOG_USE_PROJECT_SETTINGS" value="true"/>
+    <elementParameter field="CHECK" name="MULTI_THREAD_EXECATION" value="false"/>
+    <elementParameter field="TEXT" name="PARALLELIZE_UNIT_SIZE" value="25000"/>
+    <elementParameter field="CHECK" name="IMPLICIT_TCONTEXTLOAD" value="false"/>
+    <elementParameter field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" value="false"/>
+    <elementParameter field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" value="false"/>
+    <elementParameter field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;&quot;"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:PROPERTY_TYPE" value=""/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value=""/>
+    <elementParameter field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" value=""/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" value=""/>
+    <elementParameter field="TEXT" name="HOST_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PORT_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="DBNAME_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PASS_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
+    <elementParameter field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" value=""/>
+    <elementParameter field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" value=""/>
+    <elementParameter field="CHECK" name="PRINT_OPERATIONS" value="false"/>
+    <elementParameter field="CHECK" name="DISABLE_ERROR" value="false"/>
+    <elementParameter field="CHECK" name="DISABLE_WARNINGS" value="false"/>
+    <elementParameter field="CHECK" name="DISABLE_INFO" value="false"/>
+    <elementParameter field="CHECK" name="ON_STATCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_LOGCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_METERCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_CONSOLE_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_FILES_FLAG" value="false"/>
+    <elementParameter field="DIRECTORY" name="FILE_PATH" value="&quot;/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/workspace/.metadata&quot;"/>
+    <elementParameter field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;"/>
+    <elementParameter field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;"/>
+    <elementParameter field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+    <elementParameter field="CHECK" name="ON_DATABASE_FLAG" value="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_TYPE" value="tJDBCOutput"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_11"/>
+    <elementParameter field="TEXT" name="URL" value="&quot;&quot;"/>
+    <elementParameter field="TABLE" name="DRIVER_JAR"/>
+    <elementParameter field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="HOST" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PORT" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="DATASOURCE" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="DBNAME" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="USER" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PASS" value="&quot;&quot;"/>
+    <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;"/>
+    <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;"/>
+    <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;"/>
+    <elementParameter field="DBTABLE" name="TABLE_METER" value="&quot;&quot;"/>
+    <elementParameter field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true"/>
+    <elementParameter field="CHECK" name="CATCH_USER_ERRORS" value="true"/>
+    <elementParameter field="CHECK" name="CATCH_USER_WARNING" value="true"/>
+    <elementParameter field="CHECK" name="CATCH_REALTIME_STATS" value="false"/>
+    <elementParameter field="TEXT" name="HEADERFOOTER_HEADERID" value=""/>
+    <elementParameter field="CHECK" name="HEADER_ENABLED" value="false"/>
+    <elementParameter field="TEXT" name="HEADER_LIBRARY" value=""/>
+    <elementParameter field="TEXT" name="HEADER_CODE" value=""/>
+    <elementParameter field="TEXT" name="HEADER_IMPORT" value=""/>
+    <elementParameter field="TEXT" name="HEADERFOOTER_FOOTERID" value=""/>
+    <elementParameter field="CHECK" name="FOOTER_ENABLED" value="false"/>
+    <elementParameter field="TEXT" name="FOOTER_LIBRARY" value=""/>
+    <elementParameter field="TEXT" name="FOOTER_CODE" value=""/>
+    <elementParameter field="TEXT" name="FOOTER_IMPORT" value=""/>
+    <elementParameter field="CHECK" name="UPDATE_COMPONENTS" value="false"/>
+    <elementParameter field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true"/>
+    <elementParameter field="PROPERTY_TYPE" name="PROPERTY_TYPE" value=""/>
+    <elementParameter field="PASSWORD" name="PASS" value="0RMsyjmybrE="/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="BUILT_IN"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value=""/>
+    <elementParameter field="CHECK" name="IMPLICT_DEFAULT_PROJECTSETTING" value="true"/>
+    <elementParameter field="PROPERTY_TYPE" name="PROPERTY_TYPE_IMPLICIT_CONTEXT" value=""/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="0RMsyjmybrE="/>
+    <routinesParameter id="_5UZ6wO6pEeC13MCNQGW1Mg" name="DataOperation"/>
+    <routinesParameter id="_5Yo6gO6pEeC13MCNQGW1Mg" name="Mathematical"/>
+    <routinesParameter id="_5Ysk4O6pEeC13MCNQGW1Mg" name="Numeric"/>
+    <routinesParameter id="_5YvBIO6pEeC13MCNQGW1Mg" name="Relational"/>
+    <routinesParameter id="_5Y-RsO6pEeC13MCNQGW1Mg" name="SQLike"/>
+    <routinesParameter id="_5YyEcO6pEeC13MCNQGW1Mg" name="StringHandling"/>
+    <routinesParameter id="_5Y1HwO6pEeC13MCNQGW1Mg" name="TalendDataGenerator"/>
+    <routinesParameter id="_5Y4LEO6pEeC13MCNQGW1Mg" name="TalendDate"/>
+    <routinesParameter id="_5Y7OYO6pEeC13MCNQGW1Mg" name="TalendString"/>
+  </parameters>
+  <node componentName="tNetsuiteInput" componentVersion="0.4" offsetLabelX="0" offsetLabelY="0" posX="384" posY="160">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tNetsuiteInput_1"/>
+    <elementParameter field="CHECK" name="START" value="true"/>
+    <elementParameter field="TEXT" name="ENDPOINT" value="&quot;https://webservices.netsuite.com/services/NetSuitePort_2011_1&quot;"/>
+    <elementParameter field="TEXT" name="USER" value="&quot;user@domaine.com&quot;"/>
+    <elementParameter field="TEXT" name="PASS" value="&quot;userPassword&quot;"/>
+    <elementParameter field="TEXT" name="ROLE" value="&quot;3&quot;"/>
+    <elementParameter field="TEXT" name="ACCOUNT" value="&quot;0000000&quot;"/>
+    <elementParameter field="CLOSED_LIST" name="MODULENAME" value="com.netsuite.webservices.lists.relationships_2011_1.Customer"/>
+    <elementParameter field="TEXT" name="CUSTOMRECORDID" value=""/>
+    <elementParameter field="TABLE" name="CONDITIONS">
+      <elementValue elementRef="INPUT_COLUMN" value="InternalId"/>
+      <elementValue elementRef="OPERATOR" value="anyOf"/>
+      <elementValue elementRef="RVALUE" value="&quot;666&quot;"/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="ITEMS_LIST_CHKB" value="true"/>
+    <elementParameter field="CHECK" name="CUSTOM_SEARCH_CHKB" value="false"/>
+    <elementParameter field="TABLE" name="CUSTOM_SEARCH"/>
+    <elementParameter field="TEXT" name="USE_PROXY" value="false"/>
+    <elementParameter field="CHECK" name="USE_PROXY" value="false"/>
+    <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;61.163.92.4&quot;"/>
+    <elementParameter field="TEXT" name="PROXY_PORT" value="&quot;1080&quot;"/>
+    <elementParameter field="TEXT" name="PROXY_USERNAME" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="PROXY_PASSWORD" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="LIMIT" value="-1"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tNetsuiteInput_1">
+      <column key="true" length="200" name="InternalId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="ExternalId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="Email" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="EntityId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="CompanyName" nullable="true" precision="0" sourceType="" type="id_String"/>
+    </metadata>
+  </node>
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="608" posY="160">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1"/>
+    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
+    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
+    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE" value="true"/>
+    <elementParameter field="RADIO" name="PRINT_LABEL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" value="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;"/>
+    <elementParameter field="CHECK" name="PRINT_HEADER" value="false"/>
+    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" value="false"/>
+    <elementParameter field="CHECK" name="PRINT_COLNAMES" value="false"/>
+    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" value="false"/>
+    <elementParameter field="TABLE" name="LENGTHS">
+      <elementValue elementRef="SCHEMA_COLUMN" value="InternalId"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="ExternalId"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Email"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="EntityId"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="CompanyName"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tLogRow_1">
+      <column key="true" length="200" name="InternalId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="ExternalId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="Email" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="EntityId" nullable="true" precision="0" sourceType="" type="id_String"/>
+      <column key="false" length="200" name="CompanyName" nullable="true" precision="0" sourceType="" type="id_String"/>
+    </metadata>
+  </node>
+  <connection connectorName="FLOW" label="row1" lineStyle="0" metaname="tNetsuiteInput_1" offsetLabelX="0" offsetLabelY="0" source="tNetsuiteInput_1" target="tLogRow_1">
+    <elementParameter field="CHECK" name="TRACES_CONNECTION_ENABLE" value="true"/>
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER">
+      <elementValue elementRef="TRACE_COLUMN" value="InternalId"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="CHECK" name="USEROWLABEL" value="true"/>
+    <elementParameter field="TEXT" name="METTERLABEL" value="&quot;MyLabel&quot;"/>
+    <elementParameter field="CLOSED_LIST" name="ABSOLUTE" value="Absolute"/>
+    <elementParameter field="CONNECTION_LIST" name="CONNECTIONS" value=""/>
+    <elementParameter field="TABLE" name="THRESHLODS"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="true"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="row1"/>
+    <elementParameter field="CHECK" name="RESUMING_CHECKPOINT" value="false"/>
+    <elementParameter field="TEXT" name="RESUMLABEL" value=""/>
+    <elementParameter field="MEMO" name="FAILURE_INSTRUCTIONS" value=""/>
+    <elementParameter field="CHECK" name="ACTIVEBREAKPOINT" value="false"/>
+    <elementParameter field="CLOSED_LIST" name="LOGICAL_OP" value="&amp;&amp;"/>
+    <elementParameter field="TABLE" name="CONDITIONS"/>
+    <elementParameter field="CHECK" name="USE_ADVANCED" value="false"/>
+    <elementParameter field="MEMO_JAVA" name="ADVANCED_COND" value="// code sample : use input_row to define the condition.&#xA;// input_row.columnName1.equals(&quot;foo&quot;) ||!(input_row.columnName2.equals(&quot;bar&quot;))&#xA;// replace the following expression by your own filter condition &#xA;input_row.columnName1.equals(input_row.columnName2)&#xA;&#x9;&#x9;&#x9;"/>
+  </connection>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tNetsuiteInput_1"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+</talendfile:ProcessType>

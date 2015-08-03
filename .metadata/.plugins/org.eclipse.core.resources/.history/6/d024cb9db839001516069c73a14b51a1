@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VcnJIENLEd-UK4CtF6UouA" id="_L0eYYOd2Edukg8DWtMN78w" label="tOracleOutput" creationDate="2008-02-13T05:12:53.794-0800" modificationDate="2015-06-26T02:04:14.497-0700" version="0.1" statusCode="" item="_VcnJIkNLEd-UK4CtF6UouA" displayName="tOracleOutput">
+    <author href="../../../../../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jcNuwDm0EeWcAqeV4m_sPQ" path="t01_Compo/Databases/InOut/Oracle"/>
+  <TalendProperties:ProcessItem xmi:id="_VcnJIkNLEd-UK4CtF6UouA" property="_VcnJIENLEd-UK4CtF6UouA" state="_jcNuwDm0EeWcAqeV4m_sPQ">
+    <process href="tOracleOutput_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

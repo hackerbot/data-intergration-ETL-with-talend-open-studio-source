@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_H9AKIDnAEeWAipCnY9_S6g" id="_H88fwDnAEeWAipCnY9_S6g" label="SalesforceExtraction" creationDate="2015-08-03T02:15:03.489-0700" modificationDate="2015-08-03T02:15:03.297-0700" version="0.1" statusCode="" item="_H9AKIjnAEeWAipCnY9_S6g" displayName="SalesforceExtraction">
+    <author href="../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_H9AKITnAEeWAipCnY9_S6g" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_H9AKIjnAEeWAipCnY9_S6g" property="_H9AKIDnAEeWAipCnY9_S6g" state="_H9AKITnAEeWAipCnY9_S6g">
+    <process href="SalesforceExtraction_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

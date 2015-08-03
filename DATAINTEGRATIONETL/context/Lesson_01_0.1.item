@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" name="Default">
+  <contextParameter comment="" name="currency" prompt="Select a currency to view the exchange rate" promptNeeded="true" type="id_List Of Value" value="EUR,JPY,BGN,CZK,DKK,GBP,HUF,LTL,LVL,PLN,RON,SEK,CHF,NOK,HRK,RUB,TRY,AUD,BRL,CAD,CNY,HKD,IDR,ILS,INR,KRW,MXN,MYR,NZD,PHP,SGD,THB,ZAR,ISK"/>
+</talendfile:ContextType>

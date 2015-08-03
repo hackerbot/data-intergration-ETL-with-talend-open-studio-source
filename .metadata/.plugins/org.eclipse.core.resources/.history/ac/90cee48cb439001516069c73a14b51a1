@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Services:ServiceConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:Services="http://www.talend.org/Services" xmi:id="_-mIHlBdwEeGSEs5T83R7_A" WSDLPath="/Users/zubairov/tmp/TESB_SE-V5.0.0RC3/examples/talend/tesb/rent-a-car/crmservice/common/src/main/resources/model/crmservice-wsdls/CRMService.wsdl">
+  <servicePort href="CRMService_0.1.item#_1S8r0BdLEeGp55e7Um-D_w"/>
+  <additionalInfo xmi:id="_-mIHlRdwEeGSEs5T83R7_A" key="UseSAM" value="false"/>
+  <additionalInfo xmi:id="_-mIHlhdwEeGSEs5T83R7_A" key="UseSL" value="false"/>
+  <additionalInfo xmi:id="_-mIHlxdwEeGSEs5T83R7_A" key="Security.Basic" value="false"/>
+  <additionalInfo xmi:id="_-mIHmBdwEeGSEs5T83R7_A" key="Security.SAML" value="false"/>
+</Services:ServiceConnection>

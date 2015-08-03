@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_vjeyQMaXEeSC_tOSWUIyNw" name="MySQL" id="_o1TDAMaXEeSC_tOSWUIyNw" label="MySQL" dataPackage="_697UoMpuEeSlr-xkL96fRg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://db4free.net:3306/classicmodels?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="1QY6ZyNqCD4BAhKeqSkILQ==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="classicmodels" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_vjfZUMaXEeSC_tOSWUIyNw" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_vjpKUMaXEeSC_tOSWUIyNw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_vkoo0MaXEeSC_tOSWUIyNw" tag="Status" value=""/>
+    <taggedValue xmi:id="_vkoo0caXEeSC_tOSWUIyNw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_vkoo0saXEeSC_tOSWUIyNw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_vkoo08aXEeSC_tOSWUIyNw" tag="Description" value=""/>
+    <taggedValue xmi:id="_vkoo1MaXEeSC_tOSWUIyNw" tag="Author" value=""/>
+    <taggedValue xmi:id="_vkoo1caXEeSC_tOSWUIyNw" tag="otherParameter"/>
+    <taggedValue xmi:id="_vkxLsMaXEeSC_tOSWUIyNw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_vkxLscaXEeSC_tOSWUIyNw" tag="DB ProductVersion" value="5.6.22-log"/>
+    <taggedValue xmi:id="_vkxLssaXEeSC_tOSWUIyNw" tag="DB IdentifierQuoteString" value="`"/>
+    <queries xmi:id="_q4RYUMpxEeSlr-xkL96fRg">
+      <query xmi:id="_q4RYUcpxEeSlr-xkL96fRg" id="_WoPiwMpzEeSlr-xkL96fRg" label="Example" value="SELECT &#xD;&#xA;&#x9;state,&#xD;&#xA;&#x9;count(customerNumber) AS CustomerNumber&#xD;&#xA;FROM classicmodels.customers&#xD;&#xA;WHERE state IS NOT NULL &#xD;&#xA;GROUP BY state;"/>
+    </queries>
+    <parameters xmi:id="_vjfZUcaXEeSC_tOSWUIyNw" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_697UoMpuEeSlr-xkL96fRg" name="classicmodels" dataManager="_vjeyQMaXEeSC_tOSWUIyNw"/>
+</xmi:XMI>

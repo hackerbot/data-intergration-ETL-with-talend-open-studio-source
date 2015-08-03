@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_q5WLkMsPEeSyr_HlBGW7gQ" id="_q5U9cMsPEeSyr_HlBGW7gQ" label="Lesson_02_Using_tLogRow_to_View_Rejects" creationDate="2015-03-15T06:34:49.160-0700" modificationDate="2015-08-03T00:30:07.011-0700" version="0.1" statusCode="" item="_q5WLkssPEeSyr_HlBGW7gQ" displayName="Lesson_02_Using_tLogRow_to_View_Rejects">
+    <author href="../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_P8vhgDm4EeWcAqeV4m_sPQ" path="ch7_debuggingLoggingBuildingScheduling" locked="true" lockDate="2015-08-03T01:40:46.954-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_q5WLkssPEeSyr_HlBGW7gQ" property="_q5WLkMsPEeSyr_HlBGW7gQ" state="_P8vhgDm4EeWcAqeV4m_sPQ">
+    <process href="Lesson_02_Using_tLogRow_to_View_Rejects_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VeUZUENLEd-UK4CtF6UouA" id="_agCZsMvyEdu0-pmJiEk0sg" label="demoMysql" description="Update this setting to define your database connection." creationDate="2008-02-13T05:12:50.825-0800" modificationDate="2015-08-03T00:58:20.517-0700" version="0.1" statusCode="" item="_VeUZUkNLEd-UK4CtF6UouA" displayName="demoMysql">
+    <author href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_j1yFUDm0EeWcAqeV4m_sPQ" path="" locked="true" lockDate="2015-08-03T00:57:08.461-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_VeUZUkNLEd-UK4CtF6UouA" property="_VeUZUENLEd-UK4CtF6UouA" state="_j1yFUDm0EeWcAqeV4m_sPQ">
+    <connection href="demoMysql_0.1.item#_xx3tgGD7EeCFQbmPuExx4A"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

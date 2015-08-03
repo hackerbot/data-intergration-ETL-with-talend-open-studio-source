@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VeD6oENLEd-UK4CtF6UouA" id="_Cx1ukOQmEdusx4WTTWwfsA" label="ELTdemo" creationDate="2008-02-13T05:12:51.669-0800" modificationDate="2015-08-03T00:58:15.432-0700" version="0.1" statusCode="" item="_VeD6okNLEd-UK4CtF6UouA" displayName="ELTdemo">
+    <author href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jeQWIDm0EeWcAqeV4m_sPQ" path="ELT"/>
+  <TalendProperties:ProcessItem xmi:id="_VeD6okNLEd-UK4CtF6UouA" property="_VeD6oENLEd-UK4CtF6UouA" state="_jeQWIDm0EeWcAqeV4m_sPQ">
+    <process href="ELTdemo_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

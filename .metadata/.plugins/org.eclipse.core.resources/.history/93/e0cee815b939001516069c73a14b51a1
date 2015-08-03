@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-dV_ABdwEeGSEs5T83R7_A" id="_KQzQQBBxEeGJovAMsLgpoQ" label="ReservationService_getConfirmationOfReservation" creationDate="2011-11-16T08:36:40.390-0800" modificationDate="2015-08-03T00:52:16.400-0700" version="0.1" statusCode="" item="_-dV_AhdwEeGSEs5T83R7_A" displayName="ReservationService_getConfirmationOfReservation">
+    <author href="../../../../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jy3UMDm0EeWcAqeV4m_sPQ" path="EnterpriseServiceBus/ReservationService/ReservationService/getConfirmationOfReservation"/>
+  <TalendProperties:ProcessItem xmi:id="_-dV_AhdwEeGSEs5T83R7_A" property="_-dV_ABdwEeGSEs5T83R7_A" state="_jy3UMDm0EeWcAqeV4m_sPQ">
+    <process href="ReservationService_getConfirmationOfReservation_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

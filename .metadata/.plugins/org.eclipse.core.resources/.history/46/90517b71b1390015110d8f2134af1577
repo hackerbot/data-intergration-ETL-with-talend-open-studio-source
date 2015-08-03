@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_1PXkMMsPEeSyr_HlBGW7gQ" id="_1PW9IMsPEeSyr_HlBGW7gQ" label="Lesson_03_Using_tMsgBox_to_Overview_Errors" creationDate="2015-03-15T06:35:58.579-0700" modificationDate="2015-08-03T00:26:03.817-0700" version="0.1" statusCode="" item="_1PXkMssPEeSyr_HlBGW7gQ" displayName="Lesson_03_Using_tMsgBox_to_Overview_Errors">
+    <author href="../talend.project#_RzPfMjmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5dqJgDmwEeWk_-udgJCORA" path="" locked="true" lockDate="2015-08-03T00:27:35.062-0700">
+    <locker href="../talend.project#_RzPfMjmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_1PXkMssPEeSyr_HlBGW7gQ" property="_1PXkMMsPEeSyr_HlBGW7gQ" state="_5dqJgDmwEeWk_-udgJCORA">
+    <process href="Lesson_03_Using_tMsgBox_to_Overview_Errors_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

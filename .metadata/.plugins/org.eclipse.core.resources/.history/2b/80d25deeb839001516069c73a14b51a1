@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_jfp_0KV_EeKlkL1rd_7dsw" id="_jfpYwKV_EeKlkL1rd_7dsw" label="RESTConsumer" creationDate="2013-04-14T20:50:03.597-0700" modificationDate="2015-08-03T01:23:33.525-0700" version="0.1" statusCode="" item="_jfp_0qV_EeKlkL1rd_7dsw" displayName="RESTConsumer">
+    <author href="../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jwadIDm0EeWcAqeV4m_sPQ" path="EnterpriseServiceBus" locked="true" lockDate="2015-08-03T01:23:30.522-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_jfp_0qV_EeKlkL1rd_7dsw" property="_jfp_0KV_EeKlkL1rd_7dsw" state="_jwadIDm0EeWcAqeV4m_sPQ">
+    <process href="RESTConsumer_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

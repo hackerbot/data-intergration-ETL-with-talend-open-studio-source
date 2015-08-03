@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_QP6MwDnGEeWAipCnY9_S6g" id="_QP4-oDnGEeWAipCnY9_S6g" label="JSONExtraction" creationDate="2015-08-03T02:58:56.140-0700" modificationDate="2015-08-03T03:22:11.168-0700" version="0.1" statusCode="" item="_QP6MwjnGEeWAipCnY9_S6g" displayName="JSONExtraction">
+    <author href="../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_QP6MwTnGEeWAipCnY9_S6g" path="" locked="true" lockDate="2015-08-03T02:58:56.316-0700">
+    <locker href="../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_QP6MwjnGEeWAipCnY9_S6g" property="_QP6MwDnGEeWAipCnY9_S6g" state="_QP6MwTnGEeWAipCnY9_S6g">
+    <process href="JSONExtraction_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

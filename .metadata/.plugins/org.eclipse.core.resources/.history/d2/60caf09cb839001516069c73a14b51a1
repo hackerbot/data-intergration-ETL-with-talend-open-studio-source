@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Vc-Vg0NLEd-UK4CtF6UouA" id="_IWZeEOdtEdu08_wAFUaozw" label="tFileUnarchive" creationDate="2008-02-13T05:12:52.747-0800" modificationDate="2015-06-26T02:04:16.513-0700" version="0.1" statusCode="" item="_Vc-VhUNLEd-UK4CtF6UouA" displayName="tFileUnarchive">
+    <author href="../../../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jhJ5IDm0EeWcAqeV4m_sPQ" path="t01_Compo/File/Management"/>
+  <TalendProperties:ProcessItem xmi:id="_Vc-VhUNLEd-UK4CtF6UouA" property="_Vc-Vg0NLEd-UK4CtF6UouA" state="_jhJ5IDm0EeWcAqeV4m_sPQ">
+    <process href="tFileUnarchive_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

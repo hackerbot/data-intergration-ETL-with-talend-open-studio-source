@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_hoBxMMsPEeSyr_HlBGW7gQ" id="_hn1j8MsPEeSyr_HlBGW7gQ" label="Lesson_01_Locating_Errors" creationDate="2015-03-15T06:33:46.942-0700" modificationDate="2015-08-03T00:35:43.483-0700" version="0.1" statusCode="" item="_hoBxMssPEeSyr_HlBGW7gQ" maxInformationLevel="ERROR" displayName="Lesson_01_Locating_Errors">
+    <author href="../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+    <informations xmi:id="_Qh654DmyEeWk_-udgJCORA" level="ERROR" text="Syntax error on token &quot;)&quot;, delete this token"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_P8pa4Dm4EeWcAqeV4m_sPQ" path="ch7_debuggingLoggingBuildingScheduling"/>
+  <TalendProperties:ProcessItem xmi:id="_hoBxMssPEeSyr_HlBGW7gQ" property="_hoBxMMsPEeSyr_HlBGW7gQ" state="_P8pa4Dm4EeWcAqeV4m_sPQ">
+    <process href="Lesson_01_Locating_Errors_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

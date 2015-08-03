@@ -1,2 +1,0 @@
-<?xml version="1.1" encoding="UTF-8"?>
-<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="null=>TimeStamp=>customize parameter" expression="TalendDate.formatDate(&quot;yyyyMMddHHmmss&quot;, TalendDate.getRandomDate(&quot;1900-01-01&quot;, &quot;2015-12-31&quot;)) + (String.format(&quot;%02d&quot;, Numeric.random(0,23)) + String.format(&quot;%02d&quot;, Numeric.random(0,59)) + String.format(&quot;%02d&quot;, Numeric.random(0,59)))"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Vc4O4ENLEd-UK4CtF6UouA" id="_2BwcsIkhEd244dQM-KCINQ" label="tMysqlSCD" creationDate="2008-09-29T08:24:13.200-0700" modificationDate="2015-08-03T00:58:19.169-0700" version="0.1" statusCode="" item="_Vc4O4kNLEd-UK4CtF6UouA" displayName="tMysqlSCD">
+    <author href="../../../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jd4isDm0EeWcAqeV4m_sPQ" path="t01_Compo/Databases/SCD"/>
+  <TalendProperties:ProcessItem xmi:id="_Vc4O4kNLEd-UK4CtF6UouA" property="_Vc4O4ENLEd-UK4CtF6UouA" state="_jd4isDm0EeWcAqeV4m_sPQ">
+    <process href="tMysqlSCD_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:WSDLSchemaConnection xmi:id="_seMkQTnCEeWAipCnY9_S6g" name="repository.metadataWSDLSchema" dataPackage="_seNLUDnCEeWAipCnY9_S6g" timeOut="20"/>
+  <TalendMetadata:GenericPackage xmi:id="_seNLUDnCEeWAipCnY9_S6g" name="repository.metadataWSDLSchema" dataManager="_seMkQTnCEeWAipCnY9_S6g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_seNLUTnCEeWAipCnY9_S6g" id="_rA0AQDnCEeWAipCnY9_S6g" label="metadata"/>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

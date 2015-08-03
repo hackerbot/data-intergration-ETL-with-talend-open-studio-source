@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="_LAKxcDnGEeWAipCnY9_S6g" name="testJSON" dataPackage="_LAKxjDnGEeWAipCnY9_S6g _4ykGoDnHEeWAipCnY9_S6g" JSONFilePath="/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/sampleDB/Created at Mon, August, 9-54 am.json" Encoding="UTF-8">
+    <schema xmi:id="_LAKxcTnGEeWAipCnY9_S6g" LimitBoucle="50" AbsoluteXPathQuery="/root/object" flag="ROOT_OBJECT">
+      <schemaTargets xmi:id="_LAKxcjnGEeWAipCnY9_S6g" RelativeXPathQuery="_id" TagName="_id"/>
+      <schemaTargets xmi:id="_LAKxcznGEeWAipCnY9_S6g" RelativeXPathQuery="favoriteFruit" TagName="favoriteFruit"/>
+      <schemaTargets xmi:id="_LAKxdDnGEeWAipCnY9_S6g" RelativeXPathQuery="greeting" TagName="greeting"/>
+      <schemaTargets xmi:id="_LAKxdTnGEeWAipCnY9_S6g" RelativeXPathQuery="friends" TagName="friends"/>
+      <schemaTargets xmi:id="_LAKxdjnGEeWAipCnY9_S6g" RelativeXPathQuery="friends/name" TagName="name"/>
+      <schemaTargets xmi:id="_LAKxdznGEeWAipCnY9_S6g" RelativeXPathQuery="friends/id" TagName="id"/>
+      <schemaTargets xmi:id="_LAKxeDnGEeWAipCnY9_S6g" RelativeXPathQuery="range" TagName="range"/>
+      <schemaTargets xmi:id="_LAKxeTnGEeWAipCnY9_S6g" RelativeXPathQuery="tags" TagName="tags"/>
+      <schemaTargets xmi:id="_LAKxejnGEeWAipCnY9_S6g" RelativeXPathQuery="longitude" TagName="longitude"/>
+      <schemaTargets xmi:id="_LAKxeznGEeWAipCnY9_S6g" RelativeXPathQuery="latitude" TagName="latitude"/>
+      <schemaTargets xmi:id="_LAKxfDnGEeWAipCnY9_S6g" RelativeXPathQuery="registered" TagName="registered"/>
+      <schemaTargets xmi:id="_LAKxfTnGEeWAipCnY9_S6g" RelativeXPathQuery="about" TagName="about"/>
+      <schemaTargets xmi:id="_LAKxfjnGEeWAipCnY9_S6g" RelativeXPathQuery="address" TagName="address"/>
+      <schemaTargets xmi:id="_LAKxfznGEeWAipCnY9_S6g" RelativeXPathQuery="phone" TagName="phone"/>
+      <schemaTargets xmi:id="_LAKxgDnGEeWAipCnY9_S6g" RelativeXPathQuery="email" TagName="email"/>
+      <schemaTargets xmi:id="_LAKxgTnGEeWAipCnY9_S6g" RelativeXPathQuery="company" TagName="company"/>
+      <schemaTargets xmi:id="_LAKxgjnGEeWAipCnY9_S6g" RelativeXPathQuery="name" TagName="name1"/>
+      <schemaTargets xmi:id="_LAKxgznGEeWAipCnY9_S6g" RelativeXPathQuery="name/last" TagName="last"/>
+      <schemaTargets xmi:id="_LAKxhDnGEeWAipCnY9_S6g" RelativeXPathQuery="name/first" TagName="first"/>
+      <schemaTargets xmi:id="_LAKxhTnGEeWAipCnY9_S6g" RelativeXPathQuery="eyeColor" TagName="eyeColor"/>
+      <schemaTargets xmi:id="_LAKxhjnGEeWAipCnY9_S6g" RelativeXPathQuery="age" TagName="age"/>
+      <schemaTargets xmi:id="_LAKxhznGEeWAipCnY9_S6g" RelativeXPathQuery="picture" TagName="picture"/>
+      <schemaTargets xmi:id="_LAKxiDnGEeWAipCnY9_S6g" RelativeXPathQuery="balance" TagName="balance"/>
+      <schemaTargets xmi:id="_LAKxiTnGEeWAipCnY9_S6g" RelativeXPathQuery="isActive" TagName="isActive"/>
+      <schemaTargets xmi:id="_LAKxijnGEeWAipCnY9_S6g" RelativeXPathQuery="guid" TagName="guid"/>
+      <schemaTargets xmi:id="_LAKxiznGEeWAipCnY9_S6g" RelativeXPathQuery="index" TagName="index"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_LAKxjDnGEeWAipCnY9_S6g" name="default" dataManager="_LAKxcDnGEeWAipCnY9_S6g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_LAKxjTnGEeWAipCnY9_S6g" id="_-YZ_sDnFEeWAipCnY9_S6g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxjjnGEeWAipCnY9_S6g" label="_id" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxjznGEeWAipCnY9_S6g" label="favoriteFruit" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxkDnGEeWAipCnY9_S6g" label="greeting" length="46" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxkTnGEeWAipCnY9_S6g" label="friends" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxkjnGEeWAipCnY9_S6g" label="name" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxkznGEeWAipCnY9_S6g" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxlDnGEeWAipCnY9_S6g" label="range" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxlTnGEeWAipCnY9_S6g" label="tags" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxljnGEeWAipCnY9_S6g" label="longitude" length="11" precision="10" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxlznGEeWAipCnY9_S6g" label="latitude" length="10" precision="8" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxmDnGEeWAipCnY9_S6g" label="registered" length="37" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxmTnGEeWAipCnY9_S6g" label="about" length="569" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxmjnGEeWAipCnY9_S6g" label="address" length="66" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxmznGEeWAipCnY9_S6g" label="phone" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxnDnGEeWAipCnY9_S6g" label="email" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxnTnGEeWAipCnY9_S6g" label="company" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxnjnGEeWAipCnY9_S6g" label="name1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxnznGEeWAipCnY9_S6g" label="last" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxoDnGEeWAipCnY9_S6g" label="first" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxoTnGEeWAipCnY9_S6g" label="eyeColor" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxojnGEeWAipCnY9_S6g" label="age" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxoznGEeWAipCnY9_S6g" label="picture" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxpDnGEeWAipCnY9_S6g" label="balance" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxpTnGEeWAipCnY9_S6g" label="isActive" length="5" talendType="id_Boolean" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxpjnGEeWAipCnY9_S6g" label="guid" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LAKxpznGEeWAipCnY9_S6g" label="index" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_4ykGoDnHEeWAipCnY9_S6g" name="default" dataManager="_LAKxcDnGEeWAipCnY9_S6g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_4ykGoTnHEeWAipCnY9_S6g" id="_3qWhYDnHEeWAipCnY9_S6g" label="metadata1">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGojnHEeWAipCnY9_S6g" label="_id" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGoznHEeWAipCnY9_S6g" label="favoriteFruit" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGpDnHEeWAipCnY9_S6g" label="greeting" length="46" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGpTnHEeWAipCnY9_S6g" label="friends" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGpjnHEeWAipCnY9_S6g" label="name" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGpznHEeWAipCnY9_S6g" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGqDnHEeWAipCnY9_S6g" label="range" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGqTnHEeWAipCnY9_S6g" label="tags" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGqjnHEeWAipCnY9_S6g" label="longitude" length="11" precision="10" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGqznHEeWAipCnY9_S6g" label="latitude" length="10" precision="8" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGrDnHEeWAipCnY9_S6g" label="registered" length="37" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGrTnHEeWAipCnY9_S6g" label="about" length="569" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGrjnHEeWAipCnY9_S6g" label="address" length="66" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGrznHEeWAipCnY9_S6g" label="phone" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGsDnHEeWAipCnY9_S6g" label="email" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGsTnHEeWAipCnY9_S6g" label="company" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGsjnHEeWAipCnY9_S6g" label="name1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGsznHEeWAipCnY9_S6g" label="last" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGtDnHEeWAipCnY9_S6g" label="first" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGtTnHEeWAipCnY9_S6g" label="eyeColor" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGtjnHEeWAipCnY9_S6g" label="age" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGtznHEeWAipCnY9_S6g" label="picture" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGuDnHEeWAipCnY9_S6g" label="balance" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGuTnHEeWAipCnY9_S6g" label="isActive" length="5" talendType="id_Boolean" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGujnHEeWAipCnY9_S6g" label="guid" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4ykGuznHEeWAipCnY9_S6g" label="index" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

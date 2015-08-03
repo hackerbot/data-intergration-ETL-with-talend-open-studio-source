@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:SalesforceSchemaConnection xmi:id="_GSYbYDnAEeWAipCnY9_S6g" name="SalesforceConnector" dataPackage="_GSYbYTnAEeWAipCnY9_S6g" webServiceUrl="https://www.salesforce.com/services/Soap/u/25.0" userName="3891a344@opayq.com" password="GKBr0TJ/tZL3lQXTbcQIyRw28MgwWJ7iTKsGqRafZIcGqLWck4NWSA==" batchSize="250" timeOut="60000" webServiceUrlTextForOAuth="https://login.salesforce.com/services/oauth2" salesforceVersion="25.0" loginType="basic"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_GSYbYTnAEeWAipCnY9_S6g" name="default" dataManager="_GSYbYDnAEeWAipCnY9_S6g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_GSYbYjnAEeWAipCnY9_S6g" id="_U4uhEDm9EeWAipCnY9_S6g" label="metadata"/>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

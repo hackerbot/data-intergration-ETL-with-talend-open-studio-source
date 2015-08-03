@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Services:ServiceConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:Services="http://www.talend.org/Services" xmi:id="_eld-QCASEeGcz7LQVWZhpA" WSDLPath="">
+  <servicePort href="DemoService_0.1.item#_eld-QSASEeGcz7LQVWZhpA"/>
+</Services:ServiceConnection>

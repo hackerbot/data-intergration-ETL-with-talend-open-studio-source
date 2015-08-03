@@ -1,14 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.talend.master.ch6_databases</groupId>
+  <groupId>org.talend.master.dataintegrationetl</groupId>
   <artifactId>code.Master</artifactId>
   <version>6.0.0</version>
   <packaging>pom</packaging>
-  <name>CH6_DATABASES Codes Master</name>
+  <name>DATAINTEGRATIONETL Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
     <module>pom_routines.xml</module>
-    <module>pom_L2_HSQL.xml</module>
   </modules>
   <properties>
     <encoding>UTF-8</encoding>
@@ -26,22 +25,7 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>talend_file_enhanced_20070724</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>dom4j-1.6.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>hsqldb</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>talendcsv</artifactId>
       <version>6.0.0-SNAPSHOT</version>
     </dependency>
   </dependencies>

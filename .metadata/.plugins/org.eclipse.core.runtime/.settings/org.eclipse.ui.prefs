@@ -1,11 +1,11 @@
+3032ff0d@opayq.com=notused\:tdnn\:7c4a8d09ca3762af61e59520943dc26494f8941b
 CLOSE_EDITORS_ON_EXIT=true
 LICENSE_VALIDATION_DONE=1
-LOGINCOUNT=10
+LOGINCOUNT=12
 PREFERENCE_TALEND_FORCE_SHOW_LOGON_DIALOG=true
-PREFERENCE_TALEND_LOGON_STARTUP_TIMES=22
-active_data_collector=true
+PREFERENCE_TALEND_LOGON_STARTUP_TIMES=32
 eclipse.preferences.version=1
-lastUSedProject=CH6_DATABASES
+lastUSedProject=DATAINTEGRATIONETL
 logonDialog.alwaysAskMeAtStartUp=true
 mr.tdnn@gmail.com=notused\:tdnn\:7c4a8d09ca3762af61e59520943dc26494f8941b
 presentationFactoryId=org.talend.rcp.presentationfactory

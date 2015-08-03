@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:SalesforceSchemaConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_mX0t0DnAEeWAipCnY9_S6g" name="SalesforceConnector" webServiceUrl="https://www.salesforce.com/services/Soap/u/25.0" userName="3891a344@opayq.com" password="GKBr0TJ/tZL3lQXTbcQIyRw28MgwWJ7iTKsGqRafZIcGqLWck4NWSA==" moduleName="Account" batchSize="250" timeOut="60000" webServiceUrlTextForOAuth="https://login.salesforce.com/services/oauth2" salesforceVersion="25.0" loginType="basic">
+  <modules xmi:id="_mX0t0TnAEeWAipCnY9_S6g" id="_mI2dsDnAEeWAipCnY9_S6g" label="Account" moduleName="Account">
+    <tables xmi:id="_mX0t0jnAEeWAipCnY9_S6g" name="Account" id="_mI2dsTnAEeWAipCnY9_S6g" label="Account">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t0znAEeWAipCnY9_S6g" label="Id" length="18" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_mX0t1DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t1TnAEeWAipCnY9_S6g" label="IsDeleted" talendType="id_Boolean" nullable="false">
+        <initialValue xmi:id="_mX0t1jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t1znAEeWAipCnY9_S6g" label="MasterRecordId" length="18" talendType="id_String">
+        <initialValue xmi:id="_mX0t2DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t2TnAEeWAipCnY9_S6g" label="Name" length="255" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_mX0t2jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t2znAEeWAipCnY9_S6g" label="Type" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t3DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t3TnAEeWAipCnY9_S6g" label="ParentId" length="18" talendType="id_String">
+        <initialValue xmi:id="_mX0t3jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t3znAEeWAipCnY9_S6g" label="BillingStreet" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0t4DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t4TnAEeWAipCnY9_S6g" label="BillingCity" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t4jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t4znAEeWAipCnY9_S6g" label="BillingState" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0t5DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t5TnAEeWAipCnY9_S6g" label="BillingPostalCode" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0t5jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t5znAEeWAipCnY9_S6g" label="BillingCountry" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0t6DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t6TnAEeWAipCnY9_S6g" label="ShippingStreet" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0t6jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t6znAEeWAipCnY9_S6g" label="ShippingCity" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t7DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t7TnAEeWAipCnY9_S6g" label="ShippingState" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0t7jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t7znAEeWAipCnY9_S6g" label="ShippingPostalCode" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0t8DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t8TnAEeWAipCnY9_S6g" label="ShippingCountry" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0t8jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t8znAEeWAipCnY9_S6g" label="Phone" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t9DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t9TnAEeWAipCnY9_S6g" label="Fax" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t9jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t9znAEeWAipCnY9_S6g" label="AccountNumber" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t-DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t-TnAEeWAipCnY9_S6g" label="Website" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0t-jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t-znAEeWAipCnY9_S6g" label="Sic" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0t_DnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t_TnAEeWAipCnY9_S6g" label="Industry" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0t_jnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0t_znAEeWAipCnY9_S6g" label="AnnualRevenue" length="18" talendType="id_Double">
+        <initialValue xmi:id="_mX0uADnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uATnAEeWAipCnY9_S6g" label="NumberOfEmployees" talendType="id_Integer">
+        <initialValue xmi:id="_mX0uAjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uAznAEeWAipCnY9_S6g" label="Ownership" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0uBDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uBTnAEeWAipCnY9_S6g" label="TickerSymbol" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0uBjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uBznAEeWAipCnY9_S6g" label="Description" length="32000" talendType="id_String">
+        <initialValue xmi:id="_mX0uCDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uCTnAEeWAipCnY9_S6g" label="Rating" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0uCjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uCznAEeWAipCnY9_S6g" label="Site" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0uDDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uDTnAEeWAipCnY9_S6g" label="OwnerId" length="18" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_mX0uDjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uDznAEeWAipCnY9_S6g" label="CreatedDate" talendType="id_Date" nullable="false" pattern="&quot;yyyy-MM-dd'T'HH:mm:ss'.000Z'&quot;">
+        <initialValue xmi:id="_mX0uEDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uETnAEeWAipCnY9_S6g" label="CreatedById" length="18" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_mX0uEjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uEznAEeWAipCnY9_S6g" label="LastModifiedDate" talendType="id_Date" nullable="false" pattern="&quot;yyyy-MM-dd'T'HH:mm:ss'.000Z'&quot;">
+        <initialValue xmi:id="_mX0uFDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uFTnAEeWAipCnY9_S6g" label="LastModifiedById" length="18" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_mX0uFjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uFznAEeWAipCnY9_S6g" label="SystemModstamp" talendType="id_Date" nullable="false" pattern="&quot;yyyy-MM-dd'T'HH:mm:ss'.000Z'&quot;">
+        <initialValue xmi:id="_mX0uGDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uGTnAEeWAipCnY9_S6g" label="LastActivityDate" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_mX0uGjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uGznAEeWAipCnY9_S6g" label="Jigsaw" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0uHDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uHTnAEeWAipCnY9_S6g" label="JigsawCompanyId" length="20" talendType="id_String">
+        <initialValue xmi:id="_mX0uHjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uHznAEeWAipCnY9_S6g" label="CleanStatus" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0uIDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uITnAEeWAipCnY9_S6g" label="AccountSource" length="40" talendType="id_String">
+        <initialValue xmi:id="_mX0uIjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uIznAEeWAipCnY9_S6g" label="DunsNumber" length="9" talendType="id_String">
+        <initialValue xmi:id="_mX0uJDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uJTnAEeWAipCnY9_S6g" label="Tradestyle" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0uJjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uJznAEeWAipCnY9_S6g" label="NaicsCode" length="8" talendType="id_String">
+        <initialValue xmi:id="_mX0uKDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uKTnAEeWAipCnY9_S6g" label="NaicsDesc" length="120" talendType="id_String">
+        <initialValue xmi:id="_mX0uKjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uKznAEeWAipCnY9_S6g" label="YearStarted" length="4" talendType="id_String">
+        <initialValue xmi:id="_mX0uLDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uLTnAEeWAipCnY9_S6g" label="SicDesc" length="80" talendType="id_String">
+        <initialValue xmi:id="_mX0uLjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uLznAEeWAipCnY9_S6g" label="DandbCompanyId" length="18" talendType="id_String">
+        <initialValue xmi:id="_mX0uMDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uMTnAEeWAipCnY9_S6g" label="CustomerPriority__c" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0uMjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uMznAEeWAipCnY9_S6g" label="SLA__c" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0uNDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uNTnAEeWAipCnY9_S6g" label="Active__c" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0uNjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uNznAEeWAipCnY9_S6g" label="NumberofLocations__c" length="3" talendType="id_Double">
+        <initialValue xmi:id="_mX0uODnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uOTnAEeWAipCnY9_S6g" label="UpsellOpportunity__c" length="255" talendType="id_String">
+        <initialValue xmi:id="_mX0uOjnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uOznAEeWAipCnY9_S6g" label="SLASerialNumber__c" length="10" talendType="id_String">
+        <initialValue xmi:id="_mX0uPDnAEeWAipCnY9_S6g"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mX0uPTnAEeWAipCnY9_S6g" label="SLAExpirationDate__c" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_mX0uPjnAEeWAipCnY9_S6g"/>
+      </feature>
+    </tables>
+  </modules>
+</TalendMetadata:SalesforceSchemaConnection>

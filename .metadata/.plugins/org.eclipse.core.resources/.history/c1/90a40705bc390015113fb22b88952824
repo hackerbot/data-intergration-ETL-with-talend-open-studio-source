@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__GF8QMsQEeSyr_HlBGW7gQ" id="__GFVMMsQEeSyr_HlBGW7gQ" label="Lesson_10_Adding_context_parameters_with_tMsg" creationDate="2015-03-15T06:44:14.212-0700" modificationDate="2015-08-03T01:44:58.129-0700" version="0.1" statusCode="" item="__GF8QssQEeSyr_HlBGW7gQ" displayName="Lesson_10_Adding_context_parameters_with_tMsg">
+    <author href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_P9jZ0Dm4EeWcAqeV4m_sPQ" path="ch7_debuggingLoggingBuildingScheduling" locked="true" lockDate="2015-08-03T01:41:48.918-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="__GF8QssQEeSyr_HlBGW7gQ" property="__GF8QMsQEeSyr_HlBGW7gQ" state="_P9jZ0Dm4EeWcAqeV4m_sPQ">
+    <process href="Lesson_10_Adding_context_parameters_with_tMsg_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Uu02kbaJEeSs2MKZyNeqQw" id="_Uu02kLaJEeSs2MKZyNeqQw" label="CHAP_1_Lesson_07_Context_and_Metadata" creationDate="2015-02-17T02:42:44.601-0800" modificationDate="2015-08-02T15:45:46.328-0700" version="0.1" statusCode="" item="_Uu02k7aJEeSs2MKZyNeqQw" displayName="CHAP_1_Lesson_07_Context_and_Metadata">
+    <author href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_jP6_MDm0EeWcAqeV4m_sPQ" path="ch1_talendBasics" locked="true" lockDate="2015-08-03T01:31:37.431-0700">
+    <locker href="../../talend.project#_ihQUoTmvEeWb-vQ-9JLEOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_Uu02k7aJEeSs2MKZyNeqQw" property="_Uu02kbaJEeSs2MKZyNeqQw" state="_jP6_MDm0EeWcAqeV4m_sPQ">
+    <process href="CHAP_1_Lesson_07_Context_and_Metadata_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

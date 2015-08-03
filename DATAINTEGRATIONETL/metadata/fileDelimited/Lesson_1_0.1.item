@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_JyBrwMsXEeSyr_HlBGW7gQ" name="Lesson_1" dataPackage="_JyJnkMsXEeSyr_HlBGW7gQ _7xq58MsXEeSyr_HlBGW7gQ" Server="Localhost 127.0.0.1" FilePath="/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_7/Lesson_2/Data/BIS_government_procurement_card_spend_over__500_for_February_2013_with_Extra_column.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_JyJnkMsXEeSyr_HlBGW7gQ" name="default" dataManager="_JyBrwMsXEeSyr_HlBGW7gQ"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_7xq58MsXEeSyr_HlBGW7gQ" name="default" dataManager="_JyBrwMsXEeSyr_HlBGW7gQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_7xq58csXEeSyr_HlBGW7gQ" id="_5CG8YMsXEeSyr_HlBGW7gQ" label="agnostic">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq58ssXEeSyr_HlBGW7gQ" label="TRANSACTION_TYPE" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq588sXEeSyr_HlBGW7gQ" label="TRANSACTION_DATE" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq59MsXEeSyr_HlBGW7gQ" label="TRANSACTION_REFERENCE" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq59csXEeSyr_HlBGW7gQ" label="MERCHANT" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq59ssXEeSyr_HlBGW7gQ" label="TOTAL" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7xq598sXEeSyr_HlBGW7gQ" label="DATE" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

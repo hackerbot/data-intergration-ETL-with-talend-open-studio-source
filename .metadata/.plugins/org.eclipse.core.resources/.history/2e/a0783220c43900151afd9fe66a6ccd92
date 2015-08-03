@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_seNLUjnCEeWAipCnY9_S6g" id="_seMkQDnCEeWAipCnY9_S6g" label="NetsuiteConnector" creationDate="2015-08-03T02:33:27.556-0700" modificationDate="2015-08-03T02:33:27.259-0700" version="0.1" statusCode="" item="_seNLVDnCEeWAipCnY9_S6g" displayName="NetsuiteConnector">
+    <author href="../../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_seNLUznCEeWAipCnY9_S6g" path="" locked="true" lockDate="2015-08-03T02:43:03.200-0700">
+    <locker href="../../talend.project#_hU90wjm8EeWv7bXbHMqxWA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:WSDLSchemaConnectionItem xmi:id="_seNLVDnCEeWAipCnY9_S6g" property="_seNLUjnCEeWAipCnY9_S6g" state="_seNLUznCEeWAipCnY9_S6g">
+    <connection href="NetsuiteConnector_0.1.item#_seMkQTnCEeWAipCnY9_S6g"/>
+  </TalendProperties:WSDLSchemaConnectionItem>
+</xmi:XMI>
