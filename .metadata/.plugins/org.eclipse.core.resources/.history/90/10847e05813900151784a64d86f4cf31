@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_WPBw98BAEeSXVeKhv7ZMlg" id="_WPBw8MBAEeSXVeKhv7ZMlg" label="Exchange_Rates" creationDate="2015-03-01T11:25:33.055-0800" modificationDate="2015-08-02T18:43:21.036-0700" version="0.1" statusCode="" item="_WPBw-cBAEeSXVeKhv7ZMlg" displayName="Exchange_Rates">
+    <author href="../../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_st-vIDkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T18:42:57.384-0700">
+    <locker href="../../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ExcelFileConnectionItem xmi:id="_WPBw-cBAEeSXVeKhv7ZMlg" property="_WPBw98BAEeSXVeKhv7ZMlg" state="_st-vIDkyEeWeJJs0mThxDQ">
+    <connection href="Exchange_Rates_0.1.item#_WPBw8cBAEeSXVeKhv7ZMlg"/>
+  </TalendProperties:ExcelFileConnectionItem>
+</xmi:XMI>

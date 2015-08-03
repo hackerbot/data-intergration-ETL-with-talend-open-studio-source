@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zsWr0MWJEeSx-oFClHJ1Zw" id="_zsNh4MWJEeSx-oFClHJ1Zw" label="Lesson_8_tUnite" creationDate="2015-03-08T05:53:59.809-0700" modificationDate="2015-08-02T20:22:43.366-0700" version="0.1" statusCode="" item="_zsWr0sWJEeSx-oFClHJ1Zw" maxInformationLevel="ERROR" displayName="Lesson_8_tUnite">
+    <author href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+    <informations xmi:id="_4ZRMwDmOEeWuTt985Q9DEA" level="ERROR" text="Type mismatch: cannot convert from File to String"/>
+    <informations xmi:id="_4ZRMwTmOEeWuTt985Q9DEA" level="ERROR" text="Users cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMwjmOEeWuTt985Q9DEA" level="ERROR" text="ninh cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMwzmOEeWuTt985Q9DEA" level="ERROR" text="Documents cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMxDmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error on token &quot;Workspace&quot;, delete this token"/>
+    <informations xmi:id="_4ZRMxTmOEeWuTt985Q9DEA" level="ERROR" text="data cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMxjmOEeWuTt985Q9DEA" level="ERROR" text="intergration cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMxzmOEeWuTt985Q9DEA" level="ERROR" text="ETL cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMyDmOEeWuTt985Q9DEA" level="ERROR" text="with cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMyTmOEeWuTt985Q9DEA" level="ERROR" text="talend cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMyjmOEeWuTt985Q9DEA" level="ERROR" text="open cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMyzmOEeWuTt985Q9DEA" level="ERROR" text="studio cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMzDmOEeWuTt985Q9DEA" level="ERROR" text="CH_3 cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMzTmOEeWuTt985Q9DEA" level="ERROR" text="Lesson_9 cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMzjmOEeWuTt985Q9DEA" level="ERROR" text="Data cannot be resolved to a variable"/>
+    <informations xmi:id="_4ZRMzzmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete ClassInstanceCreationExpression"/>
+    <informations xmi:id="_4ZRM0DmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_4ZRM0TmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+    <informations xmi:id="_4ZRM0jmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error on tokens, ( expected instead"/>
+    <informations xmi:id="_4ZRM0zmOEeWuTt985Q9DEA" level="ERROR" text="String literal is not properly closed by a double-quote"/>
+    <informations xmi:id="_4ZRM1DmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_4ZRM1TmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;AssignmentOperator Expression&quot; to complete Assignment"/>
+    <informations xmi:id="_4ZRM1jmOEeWuTt985Q9DEA" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ssIVADkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T20:21:47.628-0700">
+    <locker href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_zsWr0sWJEeSx-oFClHJ1Zw" property="_zsWr0MWJEeSx-oFClHJ1Zw" state="_ssIVADkyEeWeJJs0mThxDQ">
+    <process href="Lesson_8_tUnite_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

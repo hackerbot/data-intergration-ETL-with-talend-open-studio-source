@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_WgSxHbqjEeSpNoX2kqLMoA" id="_WgSxELqjEeSpNoX2kqLMoA" label="offices" creationDate="2015-02-22T08:56:09.145-0800" modificationDate="2015-08-02T18:41:17.211-0700" version="1.0" statusCode="" item="_WgSxH7qjEeSpNoX2kqLMoA" displayName="offices">
+    <author href="../../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_stxTwDkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T19:02:58.849-0700">
+    <locker href="../../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_WgSxH7qjEeSpNoX2kqLMoA" property="_WgSxHbqjEeSpNoX2kqLMoA" state="_stxTwDkyEeWeJJs0mThxDQ">
+    <connection href="offices_1.0.item#_WgSxEbqjEeSpNoX2kqLMoA"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

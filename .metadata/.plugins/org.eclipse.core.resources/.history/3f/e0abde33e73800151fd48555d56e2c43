@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_vhgGsba8EeSN_PQbf60fwg" id="_vhgGsLa8EeSN_PQbf60fwg" label="Lesson_03_04_tMap" creationDate="2015-02-17T08:50:48.731-0800" modificationDate="2015-08-02T00:01:02.311-0700" version="0.1" statusCode="" item="_vhgGs7a8EeSN_PQbf60fwg" displayName="Lesson_03_04_tMap">
+    <author href="../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_PHa2YDjkEeWMgZdiNrFGUw" path="" locked="true" lockDate="2015-08-02T00:20:42.435-0700">
+    <locker href="../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_vhgGs7a8EeSN_PQbf60fwg" property="_vhgGsba8EeSN_PQbf60fwg" state="_PHa2YDjkEeWMgZdiNrFGUw">
+    <process href="Lesson_03_04_tMap_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

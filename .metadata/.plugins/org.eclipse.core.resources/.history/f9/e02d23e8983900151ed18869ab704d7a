@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_KGwzIDmYEeWPb4tvk905Yg" id="_KGwMEDmYEeWPb4tvk905Yg" label="Lesson_3_tJavaRow" creationDate="2015-08-02T21:28:58.066-0700" modificationDate="2015-08-02T21:34:08.700-0700" version="0.1" statusCode="" item="_KGwzIjmYEeWPb4tvk905Yg" maxInformationLevel="ERROR" displayName="Lesson_3_tJavaRow">
+    <author href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+    <informations xmi:id="_yi1ZUDmYEeWPb4tvk905Yg" level="ERROR" text="The operator == is undefined for the argument type(s) int, null"/>
+    <informations xmi:id="_yi1ZUTmYEeWPb4tvk905Yg" level="ERROR" text="ID cannot be resolved or is not a field"/>
+    <informations xmi:id="_yi1ZUjmYEeWPb4tvk905Yg" level="ERROR" text="Text cannot be resolved or is not a field"/>
+    <informations xmi:id="_yi1ZUzmYEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;:: IdentifierOrNew&quot; to complete ReferenceExpression"/>
+    <informations xmi:id="_yi1ZVDmYEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KGwzITmYEeWPb4tvk905Yg" path="" locked="true" lockDate="2015-08-02T21:28:58.199-0700">
+    <locker href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_KGwzIjmYEeWPb4tvk905Yg" property="_KGwzIDmYEeWPb4tvk905Yg" state="_KGwzITmYEeWPb4tvk905Yg">
+    <process href="Lesson_3_tJavaRow_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

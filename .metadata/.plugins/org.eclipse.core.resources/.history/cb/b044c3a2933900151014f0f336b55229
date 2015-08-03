@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_wSTykMWkEeS_Z5vRglVk9w" id="_wSTLgMWkEeS_Z5vRglVk9w" label="Lesson_3_Temp_Delete_Move_Rename_Copy" creationDate="2015-03-08T09:06:53.368-0700" modificationDate="2015-08-02T20:56:21.595-0700" version="0.1" statusCode="" item="_wSTyksWkEeS_Z5vRglVk9w" displayName="Lesson_3_Temp_Delete_Move_Rename_Copy">
+    <author href="../talend.project#_-yjYIjmQEeWK6_hz9NoiGA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_SWG3UDmREeWK6_hz9NoiGA" path="" locked="true" lockDate="2015-08-02T20:52:37.679-0700">
+    <locker href="../talend.project#_-yjYIjmQEeWK6_hz9NoiGA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_wSTyksWkEeS_Z5vRglVk9w" property="_wSTykMWkEeS_Z5vRglVk9w" state="_SWG3UDmREeWK6_hz9NoiGA">
+    <process href="Lesson_3_Temp_Delete_Move_Rename_Copy_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

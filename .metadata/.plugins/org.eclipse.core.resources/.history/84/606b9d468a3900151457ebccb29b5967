@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_DoorIcAgEeSXVeKhv7ZMlg" id="_DoorIMAgEeSXVeKhv7ZMlg" label="Lesson_5_tJoin" creationDate="2015-03-01T07:34:24.338-0800" modificationDate="2015-08-02T19:48:08.033-0700" version="0.1" statusCode="" item="_DoorI8AgEeSXVeKhv7ZMlg" displayName="Lesson_5_tJoin">
+    <author href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_srNH8DkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T19:43:02.074-0700">
+    <locker href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_DoorI8AgEeSXVeKhv7ZMlg" property="_DoorIcAgEeSXVeKhv7ZMlg" state="_srNH8DkyEeWeJJs0mThxDQ">
+    <process href="Lesson_5_tJoin_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

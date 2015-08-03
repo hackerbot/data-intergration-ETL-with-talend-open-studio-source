@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_TWx3ALa0EeSN_PQbf60fwg" comment="connectionComment" label="connectionLabel" dataPackage="_TWx3Aba0EeSN_PQbf60fwg"/>
+  <TalendMetadata:GenericPackage xmi:id="_TWx3Aba0EeSN_PQbf60fwg" dataManager="_TWx3ALa0EeSN_PQbf60fwg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_TWx3Ara0EeSN_PQbf60fwg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TWx3A7a0EeSN_PQbf60fwg" name="UserID" id="1575" label="UserID" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TWyeELa0EeSN_PQbf60fwg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TWyeEba0EeSN_PQbf60fwg" name="FullName" id="1576" label="FullName" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TWyeEra0EeSN_PQbf60fwg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TWyeE7a0EeSN_PQbf60fwg" name="DateOfBirth" id="1578" label="DateOfBirth" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_TWyeFLa0EeSN_PQbf60fwg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TWyeFba0EeSN_PQbf60fwg" name="Sex" id="1580" label="Sex" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_TWyeFra0EeSN_PQbf60fwg"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

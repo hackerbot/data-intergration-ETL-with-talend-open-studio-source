@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_cZdpYba9EeSN_PQbf60fwg" name="tMap_3" dataPackage="_cZdpYra9EeSN_PQbf60fwg" Server="Localhost 127.0.0.1" FilePath="I:/Docs/CH_2/Lesson_3/UserAddData.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_cZdpYra9EeSN_PQbf60fwg" name="default" dataManager="_cZdpYba9EeSN_PQbf60fwg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_cZdpY7a9EeSN_PQbf60fwg" id="_PkXmQLa9EeSN_PQbf60fwg" label="tMap_3_metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpZLa9EeSN_PQbf60fwg" label="UserInfoID" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpZba9EeSN_PQbf60fwg" label="UserID" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpZra9EeSN_PQbf60fwg" label="Country" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpZ7a9EeSN_PQbf60fwg" label="City" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpaLa9EeSN_PQbf60fwg" label="PostCode" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpaba9EeSN_PQbf60fwg" label="HPhone" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cZdpara9EeSN_PQbf60fwg" label="MPhone" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

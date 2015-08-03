@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_glgmMDmaEeWPb4tvk905Yg" id="_glf_IDmaEeWPb4tvk905Yg" label="Lesson_4_tJavaFlex" creationDate="2015-08-02T21:45:47.923-0700" modificationDate="2015-08-02T21:59:49.466-0700" version="0.1" statusCode="" item="_glgmMjmaEeWPb4tvk905Yg" maxInformationLevel="ERROR" displayName="Lesson_4_tJavaFlex">
+    <author href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+    <informations xmi:id="_Ydu74DmcEeWPb4tvk905Yg" level="ERROR" text="tJavaFlex_NB_LINE cannot be resolved to a variable"/>
+    <informations xmi:id="_Ydu74TmcEeWPb4tvk905Yg" level="ERROR" text="String literal is not properly closed by a double-quote"/>
+    <informations xmi:id="_Ydu74jmcEeWPb4tvk905Yg" level="ERROR" text="String literal is not properly closed by a double-quote"/>
+    <informations xmi:id="_Ydu74zmcEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+    <informations xmi:id="_Ydu75DmcEeWPb4tvk905Yg" level="ERROR" text="Integer cannot be resolved to a variable"/>
+    <informations xmi:id="_Ydu75TmcEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_Ydu75jmcEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_Ydu75zmcEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete MethodInvocation"/>
+    <informations xmi:id="_Ydu76DmcEeWPb4tvk905Yg" level="ERROR" text="Syntax error, insert &quot;;&quot; to complete Statement"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_glgmMTmaEeWPb4tvk905Yg" path="" locked="true" lockDate="2015-08-02T21:45:48.067-0700">
+    <locker href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_glgmMjmaEeWPb4tvk905Yg" property="_glgmMDmaEeWPb4tvk905Yg" state="_glgmMTmaEeWPb4tvk905Yg">
+    <process href="Lesson_4_tJavaFlex_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

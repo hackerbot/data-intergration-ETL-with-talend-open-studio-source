@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cZdpa7a9EeSN_PQbf60fwg" id="_cZdpYLa9EeSN_PQbf60fwg" label="tMap_3" creationDate="2015-02-17T08:55:49.878-0800" modificationDate="2015-08-02T17:11:34.141-0700" version="0.1" statusCode="" item="_cZdpbba9EeSN_PQbf60fwg" displayName="tMap_3">
+    <author href="../../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_PJItoDjkEeWMgZdiNrFGUw" path="" locked="true" lockDate="2015-08-02T17:11:22.432-0700">
+    <locker href="../../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_cZdpbba9EeSN_PQbf60fwg" property="_cZdpa7a9EeSN_PQbf60fwg" state="_PJItoDjkEeWMgZdiNrFGUw">
+    <connection href="tMap_3_0.1.item#_cZdpYba9EeSN_PQbf60fwg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

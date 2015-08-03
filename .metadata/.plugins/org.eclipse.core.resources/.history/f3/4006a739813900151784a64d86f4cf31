@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_vIH1qr3IEeSUEZ2d4RfiWw" id="_vIHOkL3IEeSUEZ2d4RfiWw" label="breakfast_menu_order_info" creationDate="2015-02-26T08:04:18.170-0800" modificationDate="2015-03-01T07:01:29.962-0800" version="0.1" statusCode="" item="_vIH1rL3IEeSUEZ2d4RfiWw" displayName="breakfast_menu_order_info">
+    <author href="../../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LkDH8DmBEeWPvunZIxDjkA" path=""/>
+  <TalendProperties:XmlFileConnectionItem xmi:id="_vIH1rL3IEeSUEZ2d4RfiWw" property="_vIH1qr3IEeSUEZ2d4RfiWw" state="_LkDH8DmBEeWPvunZIxDjkA">
+    <connection href="breakfast_menu_order_info_0.1.item#_vIH1oL3IEeSUEZ2d4RfiWw"/>
+  </TalendProperties:XmlFileConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_WPBw8cBAEeSXVeKhv7ZMlg" name="Exchange_Rates" dataPackage="_WPBw8sBAEeSXVeKhv7ZMlg" Server="Localhost 127.0.0.1" FilePath="/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_3/Lesson_8/Data/Exchange_Rates.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Oct-14" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Oct-14:w&#xA;Nov-14:w&#xA;Dec-14:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_WPBw8sBAEeSXVeKhv7ZMlg" name="default" dataManager="_WPBw8cBAEeSXVeKhv7ZMlg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_WPBw88BAEeSXVeKhv7ZMlg" id="_SdxF0MBAEeSXVeKhv7ZMlg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WPBw9MBAEeSXVeKhv7ZMlg" label="Name" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WPBw9cBAEeSXVeKhv7ZMlg" label="Code" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WPBw9sBAEeSXVeKhv7ZMlg" label="Rate__Base_" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

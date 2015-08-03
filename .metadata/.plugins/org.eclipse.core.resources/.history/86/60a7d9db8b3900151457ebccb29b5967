@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_NhAeccAgEeSXVeKhv7ZMlg" id="_NhAecMAgEeSXVeKhv7ZMlg" label="Lesson_6_Split_Data" creationDate="2015-03-01T07:35:30.647-0800" modificationDate="2015-08-02T18:42:55.952-0700" version="0.1" statusCode="" item="_NhAec8AgEeSXVeKhv7ZMlg" displayName="Lesson_6_Split_Data">
+    <author href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_srnXoDkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T19:49:31.376-0700">
+    <locker href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_NhAec8AgEeSXVeKhv7ZMlg" property="_NhAeccAgEeSXVeKhv7ZMlg" state="_srnXoDkyEeWeJJs0mThxDQ">
+    <process href="Lesson_6_Split_Data_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

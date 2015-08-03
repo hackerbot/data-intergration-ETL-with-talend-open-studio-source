@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_nTdn0Ld4EeSCTZOsypeV4Q" id="_nTZ9cLd4EeSCTZOsypeV4Q" label="Lesson_1_Regex" creationDate="2015-02-22T08:55:38.241-0800" modificationDate="2015-08-02T14:53:28.441-0700" version="1.0" statusCode="" item="_nTdn0rd4EeSCTZOsypeV4Q" maxInformationLevel="ERROR" displayName="Lesson_1_Regex">
+    <author href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+    <informations xmi:id="_1nuBEDlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error on token(s), misplaced construct(s)"/>
+    <informations xmi:id="_1nuBETlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error on token(s), misplaced construct(s)"/>
+    <informations xmi:id="_1nuBEjlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error on tokens, ( expected instead"/>
+    <informations xmi:id="_1nuBEzlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error on tokens, delete these tokens"/>
+    <informations xmi:id="_1nuBFDlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_1nuBFTlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error, insert &quot;)&quot; to complete Expression"/>
+    <informations xmi:id="_1nuBFjlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error, insert &quot;AssignmentOperator Expression&quot; to complete Expression"/>
+    <informations xmi:id="_1nuBFzlgEeWeJJs0mThxDQ" level="ERROR" text="Syntax error on token &quot;}&quot;, delete this token"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_soEUYDkyEeWeJJs0mThxDQ" path="" locked="true" lockDate="2015-08-02T09:55:09.516-0700">
+    <locker href="../talend.project#_CvO1QDkyEeWeJJs0mThxDQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_nTdn0rd4EeSCTZOsypeV4Q" property="_nTdn0Ld4EeSCTZOsypeV4Q" state="_soEUYDkyEeWeJJs0mThxDQ">
+    <process href="Lesson_1_Regex_1.0.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

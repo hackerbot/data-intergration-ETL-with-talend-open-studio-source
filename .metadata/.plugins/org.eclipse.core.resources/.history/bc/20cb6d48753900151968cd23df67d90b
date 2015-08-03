@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_KmLS0DlzEeW2A5rZqVSPWA" id="_KmJdoDlzEeW2A5rZqVSPWA" label="l3_tmap" creationDate="2015-08-02T17:04:09.980-0700" modificationDate="2015-08-02T17:17:40.483-0700" version="0.1" statusCode="" item="_KmLS0jlzEeW2A5rZqVSPWA" maxInformationLevel="ERROR" displayName="l3_tmap">
+    <author href="../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+    <informations xmi:id="_ALET8Dl1EeW2A5rZqVSPWA" level="ERROR" text="The method FirstName(String) is undefined for the type l3_tmap.row1Struct"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KmLS0TlzEeW2A5rZqVSPWA" path="" locked="true" lockDate="2015-08-02T17:04:48.670-0700">
+    <locker href="../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_KmLS0jlzEeW2A5rZqVSPWA" property="_KmLS0DlzEeW2A5rZqVSPWA" state="_KmLS0TlzEeW2A5rZqVSPWA">
+    <process href="l3_tmap_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

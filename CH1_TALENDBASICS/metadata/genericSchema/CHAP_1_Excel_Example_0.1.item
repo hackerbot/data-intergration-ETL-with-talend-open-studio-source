@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_40zJwraKEeSs2MKZyNeqQw" dataPackage="_40zJw7aKEeSs2MKZyNeqQw"/>
+  <TalendMetadata:GenericPackage xmi:id="_40zJw7aKEeSs2MKZyNeqQw" dataManager="_40zJwraKEeSs2MKZyNeqQw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_40zJxLaKEeSs2MKZyNeqQw" id="_40zJwLaKEeSs2MKZyNeqQw" label="CHAP_1_Excel_Example_metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_40zJxbaKEeSs2MKZyNeqQw" name="ID" label="ID" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_40zJxraKEeSs2MKZyNeqQw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_40zJx7aKEeSs2MKZyNeqQw" name="First_Name" label="First_Name" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_40zJyLaKEeSs2MKZyNeqQw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_40zJybaKEeSs2MKZyNeqQw" name="Last_Name" label="Last_Name" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_40zJyraKEeSs2MKZyNeqQw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_40zJy7aKEeSs2MKZyNeqQw" name="Age" label="Age" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_40zJzLaKEeSs2MKZyNeqQw"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

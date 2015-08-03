@@ -1,0 +1,2 @@
+TOS_Jobs_Records={"CH1_TALENDBASICS"\:{"tos.count.businessModels"\:0,"tos.count.components"\:13,"tos.count.contextVariables"\:10,"tos.count.generatedJobDocs"\:0,"tos.count.jobs"\:3,"tos.count.metadatas"\:2,"tos.job.frequentComponents"\:{"tContextDump"\:1,"tContextLoad"\:1,"tConvertType"\:1,"tFileInputDelimited"\:1,"tFileInputExcel"\:3,"tFileOutputDelimited"\:3,"tFilterRow"\:1,"tLogRow"\:2}}}
+eclipse.preferences.version=1

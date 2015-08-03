@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendXMLMap="http://www.talend.org/xmlmap" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default">
+  <context confirmationNeeded="false" name="Default"/>
+  <parameters>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0" show="false"/>
+    <elementParameter field="TEXT" name="REPOSITORY_CONNECTION_ID" value="" show="false"/>
+    <elementParameter field="CHECK" name="IMPLICITCONTEXT_USE_PROJECT_SETTINGS" value="true" show="false"/>
+    <elementParameter field="CHECK" name="STATANDLOG_USE_PROJECT_SETTINGS" value="true" show="false"/>
+    <elementParameter field="CHECK" name="MULTI_THREAD_EXECATION" value="false"/>
+    <elementParameter field="CHECK" name="IMPLICIT_TCONTEXTLOAD" value="false"/>
+    <elementParameter field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" value="false" show="false"/>
+    <elementParameter field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" value="false" show="false"/>
+    <elementParameter field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:PROPERTY_TYPE" value="" show="false"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" value="" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" value="" show="false"/>
+    <elementParameter field="TEXT" name="URL_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TABLE" name="DRIVER_JAR_IMPLICIT_CONTEXT" show="false"/>
+    <elementParameter field="TEXT" name="DRIVER_CLASS_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="HOST_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="PORT_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DBNAME_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="0RMsyjmybrE=" show="false"/>
+    <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" value="" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" value="" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_OPERATIONS" value="false" show="false"/>
+    <elementParameter field="CHECK" name="DISABLE_ERROR" value="false" show="false"/>
+    <elementParameter field="CHECK" name="DISABLE_WARNINGS" value="false" show="false"/>
+    <elementParameter field="CHECK" name="DISABLE_INFO" value="false" show="false"/>
+    <elementParameter field="CHECK" name="ON_STATCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_LOGCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_METERCATCHER_FLAG" value="false"/>
+    <elementParameter field="CHECK" name="ON_CONSOLE_FLAG" value="false" show="false"/>
+    <elementParameter field="CHECK" name="ON_FILES_FLAG" value="false" show="false"/>
+    <elementParameter field="DIRECTORY" name="FILE_PATH" value="&quot;/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/workspace/.metadata&quot;" show="false"/>
+    <elementParameter field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" show="false"/>
+    <elementParameter field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" show="false"/>
+    <elementParameter field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" show="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" show="false"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" show="false"/>
+    <elementParameter field="CHECK" name="ON_DATABASE_FLAG" value="false" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_TYPE" value="tJDBCOutput" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_11" show="false"/>
+    <elementParameter field="TEXT" name="URL" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TABLE" name="DRIVER_JAR" show="false"/>
+    <elementParameter field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="HOST" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="PORT" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DATASOURCE" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DBNAME" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="0RMsyjmybrE=" show="false"/>
+    <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
+    <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
+    <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
+    <elementParameter field="DBTABLE" name="TABLE_METER" value="&quot;&quot;" show="false"/>
+    <elementParameter field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" show="false"/>
+    <elementParameter field="CHECK" name="CATCH_USER_ERRORS" value="true" show="false"/>
+    <elementParameter field="CHECK" name="CATCH_USER_WARNING" value="true" show="false"/>
+    <elementParameter field="CHECK" name="CATCH_REALTIME_STATS" value="false" show="false"/>
+    <elementParameter field="TEXT" name="HEADERFOOTER_HEADERID" value="" show="false"/>
+    <elementParameter field="CHECK" name="HEADER_ENABLED" value="false" show="false"/>
+    <elementParameter field="TEXT" name="HEADER_LIBRARY" value="" show="false"/>
+    <elementParameter field="TEXT" name="HEADER_CODE" value="" show="false"/>
+    <elementParameter field="TEXT" name="HEADER_IMPORT" value="" show="false"/>
+    <elementParameter field="TEXT" name="HEADERFOOTER_FOOTERID" value="" show="false"/>
+    <elementParameter field="CHECK" name="FOOTER_ENABLED" value="false" show="false"/>
+    <elementParameter field="TEXT" name="FOOTER_LIBRARY" value="" show="false"/>
+    <elementParameter field="TEXT" name="FOOTER_CODE" value="" show="false"/>
+    <elementParameter field="TEXT" name="FOOTER_IMPORT" value="" show="false"/>
+    <routinesParameter id="_l0a28Ld4EeSCTZOsypeV4Q" name="DataOperation"/>
+    <routinesParameter id="_l0o5YLd4EeSCTZOsypeV4Q" name="Mathematical"/>
+    <routinesParameter id="_l0r8sLd4EeSCTZOsypeV4Q" name="Numeric"/>
+    <routinesParameter id="_l0vnELd4EeSCTZOsypeV4Q" name="Relational"/>
+    <routinesParameter id="_l0yqYLd4EeSCTZOsypeV4Q" name="StringHandling"/>
+    <routinesParameter id="_l01tsLd4EeSCTZOsypeV4Q" name="TalendDataGenerator"/>
+    <routinesParameter id="_l04xALd4EeSCTZOsypeV4Q" name="TalendDate"/>
+    <routinesParameter id="_l08bYLd4EeSCTZOsypeV4Q" name="TalendString"/>
+  </parameters>
+  <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="64">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_1" show="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_P6vhsL3KEeSUEZ2d4RfiWw" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_P6vhsL3KEeSUEZ2d4RfiWw - metadata" show="false"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_3/Lesson_4/Data/data.xml&quot;"/>
+    <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/menu/breakfast_menu/order/food&quot;"/>
+    <elementParameter field="TABLE" name="MAPPING">
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_num"/>
+      <elementValue elementRef="QUERY" value="&quot;../order_num&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
+      <elementValue elementRef="QUERY" value="&quot;name&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="price"/>
+      <elementValue elementRef="QUERY" value="&quot;price&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
+      <elementValue elementRef="QUERY" value="&quot;description&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="calories"/>
+      <elementValue elementRef="QUERY" value="&quot;calories&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="LIMIT" value="-1"/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" value="_P6vhsL3KEeSUEZ2d4RfiWw - metadata" show="false"/>
+    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" value="&quot;.&quot;" show="false"/>
+    <elementParameter field="CHECK" name="IGNORE_NS" value="false"/>
+    <elementParameter field="CHECK" name="IGNORE_DTD" value="false"/>
+    <elementParameter field="FILE" name="TMP_FILENAME" value="&quot;C:/Users/MSS/Dropbox (Personal)/Talend_Workspaces/v5.6.1/temp.xml&quot;" show="false"/>
+    <elementParameter field="CHECK" name="USE_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="FIELD_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="GENERATION_MODE" value="Dom4j"/>
+    <elementParameter field="CHECK" name="CHECK_DATE" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;UTF-8&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="UTF-8"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="breakfast_menu_food_info"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="metadata" name="tFileInputXML_1">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="price" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="calories" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+    </metadata>
+    <metadata connector="REJECT" label="metadata" name="REJECT">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="price" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="calories" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="256" posY="64">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
+    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
+    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE" value="true" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_LABEL" value="false" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" value="false" show="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_HEADER" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_COLNAMES" value="false" show="false"/>
+    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" value="false" show="false"/>
+    <elementParameter field="TABLE" name="LENGTHS" show="false">
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_num"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="price"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="calories"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="Food_Info"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="metadata" name="tLogRow_1">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="price" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="calories" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_2" show="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_vIHOkL3IEeSUEZ2d4RfiWw" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_vIHOkL3IEeSUEZ2d4RfiWw - metadata" show="false"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_3/Lesson_4/Data/data.xml&quot;"/>
+    <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/menu/breakfast_menu/order&quot;"/>
+    <elementParameter field="TABLE" name="MAPPING">
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_num"/>
+      <elementValue elementRef="QUERY" value="&quot;order_num&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_date"/>
+      <elementValue elementRef="QUERY" value="&quot;order_date&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="quantity"/>
+      <elementValue elementRef="QUERY" value="&quot;quantity&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="LIMIT" value="-1"/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" value="_vIHOkL3IEeSUEZ2d4RfiWw - metadata" show="false"/>
+    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" value="&quot;.&quot;" show="false"/>
+    <elementParameter field="CHECK" name="IGNORE_NS" value="false"/>
+    <elementParameter field="CHECK" name="IGNORE_DTD" value="false"/>
+    <elementParameter field="FILE" name="TMP_FILENAME" value="&quot;C:/Users/MSS/Dropbox (Personal)/Talend_Workspaces/v5.6.1/temp.xml&quot;" show="false"/>
+    <elementParameter field="CHECK" name="USE_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="FIELD_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="GENERATION_MODE" value="Dom4j"/>
+    <elementParameter field="CHECK" name="CHECK_DATE" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;UTF-8&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="UTF-8"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="breakfast_menu_order_info"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="metadata" name="tFileInputXML_2">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="order_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" type="id_Date" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="quantity" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+    </metadata>
+    <metadata connector="REJECT" label="metadata" name="REJECT">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="order_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" type="id_Date" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="quantity" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="256" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_3" show="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
+    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
+    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE" value="true" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_LABEL" value="false" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" value="false" show="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_HEADER" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_COLNAMES" value="false" show="false"/>
+    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" value="false" show="false"/>
+    <elementParameter field="TABLE" name="LENGTHS" show="false">
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_num"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_date"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="quantity"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="Order_Info"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="metadata" name="tLogRow_3">
+      <column comment="" key="true" length="0" name="order_num" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="order_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" type="id_Date" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="quantity" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="320">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_3" show="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_3/Lesson_4/Data/data.xml&quot;"/>
+    <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/&quot;"/>
+    <elementParameter field="TABLE" name="MAPPING">
+      <elementValue elementRef="SCHEMA_COLUMN" value="menu"/>
+      <elementValue elementRef="QUERY" value="&quot;.&quot;"/>
+      <elementValue elementRef="NODECHECK" value="true"/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="LIMIT" value=""/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
+    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" value="&quot;.&quot;" show="false"/>
+    <elementParameter field="CHECK" name="IGNORE_NS" value="false"/>
+    <elementParameter field="CHECK" name="IGNORE_DTD" value="true"/>
+    <elementParameter field="FILE" name="TMP_FILENAME" value="&quot;C:/Users/MSS/Dropbox (Personal)/Talend_Workspaces/v5.6.1/temp.xml&quot;" show="false"/>
+    <elementParameter field="CHECK" name="USE_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="FIELD_SEPARATOR" value="&quot;,&quot;" show="false"/>
+    <elementParameter field="CLOSED_LIST" name="GENERATION_MODE" value="Dom4j"/>
+    <elementParameter field="CHECK" name="CHECK_DATE" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="menu_Input_File"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tFileInputXML_3">
+      <column comment="" key="false" name="menu" nullable="true" pattern="" sourceType="" type="id_Document" usefulColumn="true"/>
+    </metadata>
+    <metadata connector="REJECT" name="REJECT">
+      <column comment="" key="false" name="menu" nullable="true" pattern="" sourceType="" type="id_Document" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tXMLMap" componentVersion="2.1" offsetLabelX="0" offsetLabelY="0" posX="256" posY="320">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tXMLMap_1" show="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="EXTERNAL" name="MAP" value=""/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false" show="false"/>
+    <elementParameter field="CHECK" name="KEEP_ORDER_FOR_DOCUMENT" value="false"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="out1">
+      <column comment="" key="true" name="order_num" nullable="true" sourceType="id_String" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" name="order_date" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="quantity" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="name" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="price" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="description" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="calories" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+    </metadata>
+    <nodeData xsi:type="TalendXMLMap:XmlMapData">
+      <inputTrees name="row4" matchingMode="ALL_ROWS" lookupMode="LOAD_ONCE">
+        <nodes name="menu" expression="" type="id_Document" xpath="row4/menu">
+          <children name="menu" type="id_String" xpath="row4.menu:/menu" main="true">
+            <children name="lunch_menu" type="id_String" xpath="row4.menu:/menu/lunch_menu" main="true">
+              <children name="order" type="id_String" xpath="row4.menu:/menu/lunch_menu/order" loop="true" main="true">
+                <children name="order_num" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.0" xpath="row4.menu:/menu/lunch_menu/order/order_num"/>
+                <children name="order_date" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.1" xpath="row4.menu:/menu/lunch_menu/order/order_date"/>
+                <children name="quantity" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.2" xpath="row4.menu:/menu/lunch_menu/order/quantity"/>
+                <children name="food" type="id_String" xpath="row4.menu:/menu/lunch_menu/order/food">
+                  <children name="name" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.3" xpath="row4.menu:/menu/lunch_menu/order/food/name"/>
+                  <children name="price" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.4" xpath="row4.menu:/menu/lunch_menu/order/food/price"/>
+                  <children name="description" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.5" xpath="row4.menu:/menu/lunch_menu/order/food/description"/>
+                  <children name="calories" type="id_String" outgoingConnections="//@node.5/@nodeData/@connections.6" xpath="row4.menu:/menu/lunch_menu/order/food/calories"/>
+                </children>
+              </children>
+            </children>
+            <children name="dinner_menu" type="id_String" xpath="row4.menu:/menu/dinner_menu">
+              <children name="order" type="id_String" xpath="row4.menu:/menu/dinner_menu/order">
+                <children name="order_num" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/order_num"/>
+                <children name="order_date" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/order_date"/>
+                <children name="quantity" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/quantity"/>
+                <children name="food" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/food">
+                  <children name="name" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/food/name"/>
+                  <children name="price" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/food/price"/>
+                  <children name="description" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/food/description"/>
+                  <children name="calories" type="id_String" xpath="row4.menu:/menu/dinner_menu/order/food/calories"/>
+                </children>
+              </children>
+            </children>
+            <children name="breakfast_menu" type="id_String" xpath="row4.menu:/menu/breakfast_menu">
+              <children name="order" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order">
+                <children name="order_num" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/order_num"/>
+                <children name="order_date" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/order_date"/>
+                <children name="quantity" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/quantity"/>
+                <children name="food" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/food">
+                  <children name="name" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/food/name"/>
+                  <children name="price" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/food/price"/>
+                  <children name="description" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/food/description"/>
+                  <children name="calories" type="id_String" xpath="row4.menu:/menu/breakfast_menu/order/food/calories"/>
+                </children>
+              </children>
+            </children>
+          </children>
+        </nodes>
+      </inputTrees>
+      <outputTrees name="out1">
+        <nodes name="order_num" expression="Integer.valueOf([row4.menu:/menu/lunch_menu/order/order_num] ) " type="id_Integer" incomingConnections="//@node.5/@nodeData/@connections.0" xpath="out1/order_num" key="true"/>
+        <nodes name="order_date" expression="[row4.menu:/menu/lunch_menu/order/order_date]" type="id_String" incomingConnections="//@node.5/@nodeData/@connections.1" xpath="out1/order_date"/>
+        <nodes name="quantity" expression="[row4.menu:/menu/lunch_menu/order/quantity]" type="id_String" incomingConnections="//@node.5/@nodeData/@connections.2" xpath="out1/quantity"/>
+        <nodes name="name" expression="[row4.menu:/menu/lunch_menu/order/food/name]" type="id_String" incomingConnections="//@node.5/@nodeData/@connections.3" xpath="out1/name"/>
+        <nodes name="price" expression="[row4.menu:/menu/lunch_menu/order/food/price]" type="id_String" incomingConnections="//@node.5/@nodeData/@connections.4" xpath="out1/price"/>
+        <nodes name="description" expression="StringHandling.TRIM([row4.menu:/menu/lunch_menu/order/food/description]) " type="id_String" incomingConnections="//@node.5/@nodeData/@connections.5" xpath="out1/description"/>
+        <nodes name="calories" expression="[row4.menu:/menu/lunch_menu/order/food/calories]" type="id_String" incomingConnections="//@node.5/@nodeData/@connections.6" xpath="out1/calories"/>
+      </outputTrees>
+      <varTables name="Var" minimized="true"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.0" target="//@node.5/@nodeData/@outputTrees.0/@nodes.0"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.1" target="//@node.5/@nodeData/@outputTrees.0/@nodes.1"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.2" target="//@node.5/@nodeData/@outputTrees.0/@nodes.2"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.3/@children.0" target="//@node.5/@nodeData/@outputTrees.0/@nodes.3"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.3/@children.1" target="//@node.5/@nodeData/@outputTrees.0/@nodes.4"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.3/@children.2" target="//@node.5/@nodeData/@outputTrees.0/@nodes.5"/>
+      <connections xsi:type="TalendXMLMap:Connection" source="//@node.5/@nodeData/@inputTrees.0/@nodes.0/@children.0/@children.0/@children.0/@children.3/@children.3" target="//@node.5/@nodeData/@outputTrees.0/@nodes.6"/>
+    </nodeData>
+  </node>
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="448" posY="320">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_2" show="false"/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="/Users/ninh/Documents/0Workspace/TOS_ESB-20150702_1326-V6.0.0/Studio/configuration/lib/java" show="false"/>
+    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
+    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
+    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE" value="true" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_LABEL" value="false" show="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" value="false" show="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_HEADER" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" value="false" show="false"/>
+    <elementParameter field="CHECK" name="PRINT_COLNAMES" value="false" show="false"/>
+    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" value="false" show="false"/>
+    <elementParameter field="TABLE" name="LENGTHS" show="false">
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_num"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="order_date"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="quantity"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="price"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="calories"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="Output"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tLogRow_2">
+      <column comment="" key="true" name="order_num" nullable="true" sourceType="id_String" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" name="order_date" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="quantity" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="name" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="price" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="description" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" name="calories" nullable="true" sourceType="id_String" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <connection connectorName="FLOW" label="row1" lineStyle="0" metaname="tFileInputXML_1" offsetLabelX="0" offsetLabelY="0" source="tFileInputXML_1" target="tLogRow_1">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="order_num"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="name"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="price"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="description"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="calories"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false" show="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="row1" show="false"/>
+  </connection>
+  <connection connectorName="FLOW" label="row2" lineStyle="0" metaname="tFileInputXML_2" offsetLabelX="0" offsetLabelY="0" source="tFileInputXML_2" target="tLogRow_3">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="order_num"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="order_date"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="quantity"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false" show="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="row2" show="false"/>
+  </connection>
+  <connection connectorName="FLOW" label="row4" lineStyle="0" metaname="tFileInputXML_3" offsetLabelX="0" offsetLabelY="0" source="tFileInputXML_3" target="tXMLMap_1">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="menu"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="row4" show="false"/>
+  </connection>
+  <connection connectorName="FLOW" label="out1" lineStyle="0" metaname="out1" offsetLabelX="0" offsetLabelY="0" source="tXMLMap_1" target="tLogRow_2">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="menu"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="out1" show="false"/>
+  </connection>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_1" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_2" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_3" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240" show="false"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+</talendfile:ProcessType>

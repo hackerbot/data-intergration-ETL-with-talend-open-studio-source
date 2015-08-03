@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_j6p1sDmdEeWPb4tvk905Yg" id="_j6pOoDmdEeWPb4tvk905Yg" label="Lesson_5_Routines" creationDate="2015-08-02T22:07:38.763-0700" modificationDate="2015-08-02T22:13:41.274-0700" version="0.1" statusCode="" item="_j6p1sjmdEeWPb4tvk905Yg" maxInformationLevel="ERROR" displayName="Lesson_5_Routines">
+    <author href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+    <informations xmi:id="_XoMJEDmeEeWPb4tvk905Yg" level="ERROR" text="Epoch cannot be resolved"/>
+    <informations xmi:id="_XoMJETmeEeWPb4tvk905Yg" level="ERROR" text="Syntax error on token &quot;]&quot;, delete this token"/>
+    <informations xmi:id="_XoMJEjmeEeWPb4tvk905Yg" level="ERROR" text="Epoch cannot be resolved"/>
+    <informations xmi:id="_XoMJEzmeEeWPb4tvk905Yg" level="ERROR" text="Syntax error on token &quot;]&quot;, delete this token"/>
+    <informations xmi:id="_XoMJFDmeEeWPb4tvk905Yg" level="ERROR" text="Epoch cannot be resolved"/>
+    <informations xmi:id="_XoMJFTmeEeWPb4tvk905Yg" level="ERROR" text="Epoch cannot be resolved"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_j6p1sTmdEeWPb4tvk905Yg" path="" locked="true" lockDate="2015-08-02T22:07:38.921-0700">
+    <locker href="../talend.project#_ja8J8jmUEeWPb4tvk905Yg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_j6p1sjmdEeWPb4tvk905Yg" property="_j6p1sDmdEeWPb4tvk905Yg" state="_j6p1sTmdEeWPb4tvk905Yg">
+    <process href="Lesson_5_Routines_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

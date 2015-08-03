@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_wF46Q7bJEeSf948drLwtaw" id="_GOXpwLbJEeSf948drLwtaw" label="MySQL" creationDate="2015-02-17T10:23:56.002-0800" modificationDate="2015-02-17T10:41:35.459-0800" version="0.1" statusCode="" item="_wF46RbbJEeSf948drLwtaw" displayName="MySQL">
+    <author href="../../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_PIud8DjkEeWMgZdiNrFGUw" path="" locked="true" lockDate="2015-08-02T17:11:51.992-0700">
+    <locker href="../../talend.project#_46RJoTjhEeWU4YijShMH_A"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_wF46RbbJEeSf948drLwtaw" property="_wF46Q7bJEeSf948drLwtaw" state="_PIud8DjkEeWMgZdiNrFGUw">
+    <connection href="MySQL_0.1.item#_wF46QLbJEeSf948drLwtaw"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

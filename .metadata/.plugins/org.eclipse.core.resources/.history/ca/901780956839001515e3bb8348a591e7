@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="inputFile" prompt="Select the input file" promptNeeded="false" type="id_File" value="/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_1/Data/CH_1_Metadata_example.xlsx"/>
+  <contextParameter comment="" name="outputDirectory" prompt="outputDirectory?" promptNeeded="false" type="id_Directory" value="/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_1/Data/"/>
+</talendfile:ContextType>
