@@ -101,18 +101,16 @@
     <elementParameter field="TEXT" name="PORT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="TYPE" value="HSQLDB" show="false"/>
     <elementParameter field="DIRECTORY" name="DBPATH" value="&quot;/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_6/Lesson_2/DB&quot;"/>
-    <elementParameter field="TEXT" name="DBNAME" value="&quot;test_HSQL&quot;"/>
+    <elementParameter field="TEXT" name="DBNAME" value="&quot;memory_HSQL&quot;"/>
     <elementParameter field="TEXT" name="DATABASE_ALIAS" value="&quot;test_HSQL&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sa&quot;"/>
     <elementParameter field="PASSWORD" name="PASS" value="sxXnCJx/lOU="/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_hVnh4MpnEeSlr-xkL96fRg - TEST_TABLE" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;TEST_TABLE&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
     <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
-    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT Test_Table.Test &#xA;FROM&#x9; Test_Table&quot;"/>
+    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT TEST_TABLE.TEST &#xA;FROM&#x9; TEST_TABLE&quot;"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
     <elementParameter field="CHECK" name="TRIM_ALL_COLUMN" value="false"/>
     <elementParameter field="TABLE" name="TRIM_COLUMN">
@@ -120,10 +118,8 @@
       <elementValue elementRef="TRIM" value="false"/>
     </elementParameter>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="TEST_TABLE" name="tHSQLDbInput_1">
-      <column comment="" key="false" length="100" name="TEST" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
-        <additionalField key="Comment" value=""/>
-      </column>
+    <metadata connector="FLOW" name="tHSQLDbInput_1">
+      <column comment="" key="false" length="100" name="TEST" nullable="true" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="224">
@@ -146,10 +142,8 @@
     </elementParameter>
     <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="TEST_TABLE" name="tLogRow_1">
-      <column comment="" key="false" length="100" name="TEST" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
-        <additionalField key="Comment" value=""/>
-      </column>
+    <metadata connector="FLOW" name="tLogRow_1">
+      <column comment="" key="false" length="100" name="TEST" nullable="true" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="96">
@@ -182,7 +176,7 @@
     <elementParameter field="TEXT" name="HOST" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="PORT" value="&quot;9001&quot;" show="false"/>
     <elementParameter field="DIRECTORY" name="DBPATH" value="&quot;/Users/ninh/Documents/0Workspace/data-intergration-ETL-with-talend-open-studio/CH_6/Lesson_2/DB&quot;"/>
-    <elementParameter field="TEXT" name="DBNAME" value="&quot;test_HSQL&quot;"/>
+    <elementParameter field="TEXT" name="DBNAME" value="&quot;memory_HSQL&quot;"/>
     <elementParameter field="TEXT" name="DATABASE_ALIAS" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sa&quot;"/>
     <elementParameter field="PASSWORD" name="PASS" value="sxXnCJx/lOU="/>
@@ -205,7 +199,7 @@
       <elementValue elementRef="INSERTABLE" value="true"/>
     </elementParameter>
     <elementParameter field="CHECK" name="ENABLE_DEBUG_MODE" value="false"/>
-    <elementParameter field="TEXT" name="LABEL" value="test_HSQL"/>
+    <elementParameter field="TEXT" name="LABEL" value="memory_HSQL"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tHSQLDbOutput_1">
       <column comment="" key="false" length="100" name="Test" nullable="true" pattern="" sourceType="VARCHAR" type="id_String" originalLength="100" usefulColumn="true"/>

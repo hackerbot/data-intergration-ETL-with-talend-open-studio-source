@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_pldNoDmjEeWqlM7usS31lg" id="_plbYcDmjEeWqlM7usS31lg" label="memory_HQSL" creationDate="2015-08-02T22:51:13.785-0700" modificationDate="2015-08-02T22:51:13.952-0700" version="0.1" statusCode="" item="_pldNojmjEeWqlM7usS31lg" displayName="memory_HQSL">
+    <author href="../talend.project#_hgAGQDmfEeW3SpA8sfWpZQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_pldNoTmjEeWqlM7usS31lg" path="" locked="true" lockDate="2015-08-02T22:51:14.035-0700">
+    <locker href="../talend.project#_hgAGQDmfEeW3SpA8sfWpZQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_pldNojmjEeWqlM7usS31lg" property="_pldNoDmjEeWqlM7usS31lg" state="_pldNoTmjEeWqlM7usS31lg">
+    <process href="memory_HQSL_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
